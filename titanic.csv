@@ -1,0 +1,1310 @@
+pclass,survived,name,sex,age,ticket,fare,cabin,embarked,boat,body,home.dest
+1st class,survived,"Allen, Miss. Elisabeth Walton",female,29,24160,211.3375,B5,Southampton,2,,"St Louis, MO"
+1st class,survived,"Allison, Master. Hudson Trevor",male,0.92,113781,151.5500,C22 C26,Southampton,11,,"Montreal, PQ / Chesterville, ON"
+1st class,did not survive,"Allison, Miss. Helen Loraine",female,2,113781,151.5500,C22 C26,Southampton,,,"Montreal, PQ / Chesterville, ON"
+1st class,did not survive,"Allison, Mr. Hudson Joshua Creighton",male,30,113781,151.5500,C22 C26,Southampton,,135,"Montreal, PQ / Chesterville, ON"
+1st class,did not survive,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,113781,151.5500,C22 C26,Southampton,,,"Montreal, PQ / Chesterville, ON"
+1st class,survived,"Anderson, Mr. Harry",male,48,19952,26.5500,E12,Southampton,3,,"New York, NY"
+1st class,survived,"Andrews, Miss. Kornelia Theodosia",female,63,13502,77.9583,D7,Southampton,10,,"Hudson, NY"
+1st class,did not survive,"Andrews, Mr. Thomas Jr",male,39,112050,0.0000,A36,Southampton,,,"Belfast, NI"
+1st class,survived,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,11769,51.4792,C101,Southampton,D,,"Bayside, Queens, NY"
+1st class,did not survive,"Artagaveytia, Mr. Ramon",male,71,PC 17609,49.5042,,Cherbourg,,22,"Montevideo, Uruguay"
+1st class,did not survive,"Astor, Col. John Jacob",male,47,PC 17757,227.5250,C62 C64,Cherbourg,,124,"New York, NY"
+1st class,survived,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,PC 17757,227.5250,C62 C64,Cherbourg,4,,"New York, NY"
+1st class,survived,"Aubart, Mme. Leontine Pauline",female,24,PC 17477,69.3000,B35,Cherbourg,9,,"Paris, France"
+1st class,survived,"Barber, Miss. Ellen ""Nellie""",female,26,19877,78.8500,,Southampton,6,,
+1st class,survived,"Barkworth, Mr. Algernon Henry Wilson",male,80,27042,30.0000,A23,Southampton,B,,"Hessle, Yorks"
+1st class,did not survive,"Baumann, Mr. John D",male,unknown,PC 17318,25.9250,,Southampton,,,"New York, NY"
+1st class,did not survive,"Baxter, Mr. Quigg Edmond",male,24,PC 17558,247.5208,B58 B60,Cherbourg,,,"Montreal, PQ"
+1st class,survived,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,PC 17558,247.5208,B58 B60,Cherbourg,6,,"Montreal, PQ"
+1st class,survived,"Bazzani, Miss. Albina",female,32,11813,76.2917,D15,Cherbourg,8,,
+1st class,did not survive,"Beattie, Mr. Thomson",male,36,13050,75.2417,C6,Cherbourg,A,,"Winnipeg, MN"
+1st class,survived,"Beckwith, Mr. Richard Leonard",male,37,11751,52.5542,D35,Southampton,5,,"New York, NY"
+1st class,survived,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,11751,52.5542,D35,Southampton,5,,"New York, NY"
+1st class,survived,"Behr, Mr. Karl Howell",male,26,111369,30.0000,C148,Cherbourg,5,,"New York, NY"
+1st class,survived,"Bidois, Miss. Rosalie",female,42,PC 17757,227.5250,,Cherbourg,4,,
+1st class,survived,"Bird, Miss. Ellen",female,29,PC 17483,221.7792,C97,Southampton,8,,
+1st class,did not survive,"Birnbaum, Mr. Jakob",male,25,13905,26.0000,,Cherbourg,,148,"San Francisco, CA"
+1st class,survived,"Bishop, Mr. Dickinson H",male,25,11967,91.0792,B49,Cherbourg,7,,"Dowagiac, MI"
+1st class,survived,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,11967,91.0792,B49,Cherbourg,7,,"Dowagiac, MI"
+1st class,survived,"Bissette, Miss. Amelia",female,35,PC 17760,135.6333,C99,Southampton,8,,
+1st class,survived,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,110564,26.5500,C52,Southampton,D,,"Stockholm, Sweden / Washington, DC"
+1st class,did not survive,"Blackwell, Mr. Stephen Weart",male,45,113784,35.5000,T,Southampton,,,"Trenton, NJ"
+1st class,survived,"Blank, Mr. Henry",male,40,112277,31.0000,A31,Cherbourg,7,,"Glen Ridge, NJ"
+1st class,survived,"Bonnell, Miss. Caroline",female,30,36928,164.8667,C7,Southampton,8,,"Youngstown, OH"
+1st class,survived,"Bonnell, Miss. Elizabeth",female,58,113783,26.5500,C103,Southampton,8,,"Birkdale, England Cleveland, Ohio"
+1st class,did not survive,"Borebank, Mr. John James",male,42,110489,26.5500,D22,Southampton,,,"London / Winnipeg, MB"
+1st class,survived,"Bowen, Miss. Grace Scott",female,45,PC 17608,262.3750,,Cherbourg,4,,"Cooperstown, NY"
+1st class,survived,"Bowerman, Miss. Elsie Edith",female,22,113505,55.0000,E33,Southampton,6,,"St Leonards-on-Sea, England Ohio"
+1st class,survived,"Bradley, Mr. George (""George Arthur Brayton"")",male,unknown,111427,26.5500,,Southampton,9,,"Los Angeles, CA"
+1st class,did not survive,"Brady, Mr. John Bertram",male,41,113054,30.5000,A21,Southampton,,,"Pomeroy, WA"
+1st class,did not survive,"Brandeis, Mr. Emil",male,48,PC 17591,50.4958,B10,Cherbourg,,208,"Omaha, NE"
+1st class,did not survive,"Brewe, Dr. Arthur Jackson",male,unknown,112379,39.6000,,Cherbourg,,,"Philadelphia, PA"
+1st class,survived,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,PC 17610,27.7208,B4,Cherbourg,6,,"Denver, CO"
+1st class,survived,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,11769,51.4792,C101,Southampton,D,,"Belmont, MA"
+1st class,survived,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,11813,76.2917,D15,Cherbourg,8,,"Philadelphia, PA"
+1st class,survived,"Burns, Miss. Elizabeth Margaret",female,41,16966,134.5000,E40,Cherbourg,3,,
+1st class,did not survive,"Butt, Major. Archibald Willingham",male,45,113050,26.5500,B38,Southampton,,,"Washington, DC"
+1st class,did not survive,"Cairns, Mr. Alexander",male,unknown,113798,31.0000,,Southampton,,,
+1st class,survived,"Calderhead, Mr. Edward Pennington",male,42,PC 17476,26.2875,E24,Southampton,5,,"New York, NY"
+1st class,survived,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,PC 17606,27.4458,,Cherbourg,6,,"Washington, DC"
+1st class,survived,"Cardeza, Mr. Thomas Drake Martinez",male,36,PC 17755,512.3292,B51 B53 B55,Cherbourg,3,,"Austria-Hungary / Germantown, Philadelphia, PA"
+1st class,survived,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,PC 17755,512.3292,B51 B53 B55,Cherbourg,3,,"Germantown, Philadelphia, PA"
+1st class,did not survive,"Carlsson, Mr. Frans Olof",male,33,695,5.0000,B51 B53 B55,Southampton,,,"New York, NY"
+1st class,did not survive,"Carrau, Mr. Francisco M",male,28,113059,47.1000,,Southampton,,,"Montevideo, Uruguay"
+1st class,did not survive,"Carrau, Mr. Jose Pedro",male,17,113059,47.1000,,Southampton,,,"Montevideo, Uruguay"
+1st class,survived,"Carter, Master. William Thornton II",male,11,113760,120.0000,B96 B98,Southampton,4,,"Bryn Mawr, PA"
+1st class,survived,"Carter, Miss. Lucile Polk",female,14,113760,120.0000,B96 B98,Southampton,4,,"Bryn Mawr, PA"
+1st class,survived,"Carter, Mr. William Ernest",male,36,113760,120.0000,B96 B98,Southampton,C,,"Bryn Mawr, PA"
+1st class,survived,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,113760,120.0000,B96 B98,Southampton,4,,"Bryn Mawr, PA"
+1st class,did not survive,"Case, Mr. Howard Brown",male,49,19924,26.0000,,Southampton,,,"Ascot, Berkshire / Rochester, NY"
+1st class,survived,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,unknown,17770,27.7208,,Cherbourg,5,,"New York, NY"
+1st class,did not survive,"Cavendish, Mr. Tyrell William",male,36,19877,78.8500,C46,Southampton,,172,"Little Onn Hall, Staffs"
+1st class,survived,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,19877,78.8500,C46,Southampton,6,,"Little Onn Hall, Staffs"
+1st class,did not survive,"Chaffee, Mr. Herbert Fuller",male,46,W.E.P. 5734,61.1750,E31,Southampton,,,"Amenia, ND"
+1st class,survived,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,W.E.P. 5734,61.1750,E31,Southampton,4,,"Amenia, ND"
+1st class,survived,"Chambers, Mr. Norman Campbell",male,27,113806,53.1000,E8,Southampton,5,,"New York, NY / Ithaca, NY"
+1st class,survived,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,113806,53.1000,E8,Southampton,5,,"New York, NY / Ithaca, NY"
+1st class,survived,"Chaudanson, Miss. Victorine",female,36,PC 17608,262.3750,B61,Cherbourg,4,,
+1st class,survived,"Cherry, Miss. Gladys",female,30,110152,86.5000,B77,Southampton,8,,"London, England"
+1st class,survived,"Chevre, Mr. Paul Romaine",male,45,PC 17594,29.7000,A9,Cherbourg,7,,"Paris, France"
+1st class,survived,"Chibnall, Mrs. (Edith Martha Bowerman)",female,unknown,113505,55.0000,E33,Southampton,6,,"St Leonards-on-Sea, England Ohio"
+1st class,did not survive,"Chisholm, Mr. Roderick Robert Crispin",male,unknown,112051,0.0000,,Southampton,,,"Liverpool, England / Belfast"
+1st class,did not survive,"Clark, Mr. Walter Miller",male,27,13508,136.7792,C89,Cherbourg,,,"Los Angeles, CA"
+1st class,survived,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,13508,136.7792,C89,Cherbourg,4,,"Los Angeles, CA"
+1st class,survived,"Cleaver, Miss. Alice",female,22,113781,151.5500,,Southampton,11,,
+1st class,did not survive,"Clifford, Mr. George Quincy",male,unknown,110465,52.0000,A14,Southampton,,,"Stoughton, MA"
+1st class,did not survive,"Colley, Mr. Edward Pomeroy",male,47,5727,25.5875,E58,Southampton,,,"Victoria, BC"
+1st class,survived,"Compton, Miss. Sara Rebecca",female,39,PC 17756,83.1583,E49,Cherbourg,14,,"Lakewood, NJ"
+1st class,did not survive,"Compton, Mr. Alexander Taylor Jr",male,37,PC 17756,83.1583,E52,Cherbourg,,,"Lakewood, NJ"
+1st class,survived,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,PC 17756,83.1583,E45,Cherbourg,14,,"Lakewood, NJ"
+1st class,survived,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,11770,25.7000,C101,Southampton,2,,"New York, NY"
+1st class,did not survive,"Crafton, Mr. John Bertram",male,unknown,113791,26.5500,,Southampton,,,"Roachdale, IN"
+1st class,did not survive,"Crosby, Capt. Edward Gifford",male,70,WE/P 5735,71.0000,B22,Southampton,,269,"Milwaukee, WI"
+1st class,survived,"Crosby, Miss. Harriet R",female,36,WE/P 5735,71.0000,B22,Southampton,7,,"Milwaukee, WI"
+1st class,survived,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,112901,26.5500,B26,Southampton,7,,"Milwaukee, WI"
+1st class,did not survive,"Cumings, Mr. John Bradley",male,39,PC 17599,71.2833,C85,Cherbourg,,,"New York, NY"
+1st class,survived,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,PC 17599,71.2833,C85,Cherbourg,4,,"New York, NY"
+1st class,survived,"Daly, Mr. Peter Denis",male,51,113055,26.5500,E17,Southampton,5 9,,"Lima, Peru"
+1st class,survived,"Daniel, Mr. Robert Williams",male,27,113804,30.5000,,Southampton,3,,"Philadelphia, PA"
+1st class,survived,"Daniels, Miss. Sarah",female,33,113781,151.5500,,Southampton,8,,
+1st class,did not survive,"Davidson, Mr. Thornton",male,31,F.C. 12750,52.0000,B71,Southampton,,,"Montreal, PQ"
+1st class,survived,"Davidson, Mrs. Thornton (Orian Hays)",female,27,F.C. 12750,52.0000,B71,Southampton,3,,"Montreal, PQ"
+1st class,survived,"Dick, Mr. Albert Adrian",male,31,17474,57.0000,B20,Southampton,3,,"Calgary, AB"
+1st class,survived,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,17474,57.0000,B20,Southampton,3,,"Calgary, AB"
+1st class,survived,"Dodge, Dr. Washington",male,53,33638,81.8583,A34,Southampton,13,,"San Francisco, CA"
+1st class,survived,"Dodge, Master. Washington",male,4,33638,81.8583,A34,Southampton,5,,"San Francisco, CA"
+1st class,survived,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,33638,81.8583,A34,Southampton,5,,"San Francisco, CA"
+1st class,did not survive,"Douglas, Mr. Walter Donald",male,50,PC 17761,106.4250,C86,Cherbourg,,62,"Deephaven, MN / Cedar Rapids, IA"
+1st class,survived,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,PC 17558,247.5208,B58 B60,Cherbourg,6,,"Montreal, PQ"
+1st class,survived,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,PC 17761,106.4250,C86,Cherbourg,2,,"Deephaven, MN / Cedar Rapids, IA"
+1st class,survived,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,11755,39.6000,A16,Cherbourg,1,,London / Paris
+1st class,survived,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,PC 17485,56.9292,A20,Cherbourg,1,,London / Paris
+1st class,did not survive,"Dulles, Mr. William Crothers",male,39,PC 17580,29.7000,A18,Cherbourg,,133,"Philadelphia, PA"
+1st class,survived,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,11767,83.1583,C54,Cherbourg,7,,"Mt Airy, Philadelphia, PA"
+1st class,survived,"Endres, Miss. Caroline Louise",female,38,PC 17757,227.5250,C45,Cherbourg,4,,"New York, NY"
+1st class,survived,"Eustis, Miss. Elizabeth Mussey",female,54,36947,78.2667,D20,Cherbourg,4,,"Brookline, MA"
+1st class,did not survive,"Evans, Miss. Edith Corse",female,36,PC 17531,31.6792,A29,Cherbourg,,,"New York, NY"
+1st class,did not survive,"Farthing, Mr. John",male,unknown,PC 17483,221.7792,C95,Southampton,,,
+1st class,survived,"Flegenheim, Mrs. Alfred (Antoinette)",female,unknown,PC 17598,31.6833,,Southampton,7,,"New York, NY"
+1st class,survived,"Fleming, Miss. Margaret",female,unknown,17421,110.8833,,Cherbourg,4,,
+1st class,survived,"Flynn, Mr. John Irwin (""Irving"")",male,36,PC 17474,26.3875,E25,Southampton,5,,"Brooklyn, NY"
+1st class,did not survive,"Foreman, Mr. Benjamin Laventall",male,30,113051,27.7500,C111,Cherbourg,,,"New York, NY"
+1st class,survived,"Fortune, Miss. Alice Elizabeth",female,24,19950,263.0000,C23 C25 C27,Southampton,10,,"Winnipeg, MB"
+1st class,survived,"Fortune, Miss. Ethel Flora",female,28,19950,263.0000,C23 C25 C27,Southampton,10,,"Winnipeg, MB"
+1st class,survived,"Fortune, Miss. Mabel Helen",female,23,19950,263.0000,C23 C25 C27,Southampton,10,,"Winnipeg, MB"
+1st class,did not survive,"Fortune, Mr. Charles Alexander",male,19,19950,263.0000,C23 C25 C27,Southampton,,,"Winnipeg, MB"
+1st class,did not survive,"Fortune, Mr. Mark",male,64,19950,263.0000,C23 C25 C27,Southampton,,,"Winnipeg, MB"
+1st class,survived,"Fortune, Mrs. Mark (Mary McDougald)",female,60,19950,263.0000,C23 C25 C27,Southampton,10,,"Winnipeg, MB"
+1st class,survived,"Francatelli, Miss. Laura Mabel",female,30,PC 17485,56.9292,E36,Cherbourg,1,,
+1st class,did not survive,"Franklin, Mr. Thomas Parham",male,unknown,113778,26.5500,D34,Southampton,,,"Westcliff-on-Sea, Essex"
+1st class,survived,"Frauenthal, Dr. Henry William",male,50,PC 17611,133.6500,,Southampton,5,,"New York, NY"
+1st class,survived,"Frauenthal, Mr. Isaac Gerald",male,43,17765,27.7208,D40,Cherbourg,5,,"New York, NY"
+1st class,survived,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,unknown,PC 17611,133.6500,,Southampton,5,,"New York, NY"
+1st class,survived,"Frolicher, Miss. Hedwig Margaritha",female,22,13568,49.5000,B39,Cherbourg,5,,"Zurich, Switzerland"
+1st class,survived,"Frolicher-Stehli, Mr. Maxmillian",male,60,13567,79.2000,B41,Cherbourg,5,,"Zurich, Switzerland"
+1st class,survived,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,13567,79.2000,B41,Cherbourg,5,,"Zurich, Switzerland"
+1st class,did not survive,"Fry, Mr. Richard",male,unknown,112058,0.0000,B102,Southampton,,,
+1st class,did not survive,"Futrelle, Mr. Jacques Heath",male,37,113803,53.1000,C123,Southampton,,,"Scituate, MA"
+1st class,survived,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,113803,53.1000,C123,Southampton,D,,"Scituate, MA"
+1st class,did not survive,"Gee, Mr. Arthur H",male,47,111320,38.5000,E63,Southampton,,275,"St Anne's-on-Sea, Lancashire"
+1st class,survived,"Geiger, Miss. Amalie",female,35,113503,211.5000,C130,Cherbourg,4,,
+1st class,survived,"Gibson, Miss. Dorothy Winifred",female,22,112378,59.4000,,Cherbourg,7,,"New York, NY"
+1st class,survived,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,112378,59.4000,,Cherbourg,7,,"New York, NY"
+1st class,did not survive,"Giglio, Mr. Victor",male,24,PC 17593,79.2000,B86,Cherbourg,,,
+1st class,survived,"Goldenberg, Mr. Samuel L",male,49,17453,89.1042,C92,Cherbourg,5,,"Paris, France / New York, NY"
+1st class,survived,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,unknown,17453,89.1042,C92,Cherbourg,5,,"Paris, France / New York, NY"
+1st class,did not survive,"Goldschmidt, Mr. George B",male,71,PC 17754,34.6542,A5,Cherbourg,,,"New York, NY"
+1st class,survived,"Gracie, Col. Archibald IV",male,53,113780,28.5000,C51,Cherbourg,B,,"Washington, DC"
+1st class,survived,"Graham, Miss. Margaret Edith",female,19,112053,30.0000,B42,Southampton,3,,"Greenwich, CT"
+1st class,did not survive,"Graham, Mr. George Edward",male,38,PC 17582,153.4625,C91,Southampton,,147,"Winnipeg, MB"
+1st class,survived,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,PC 17582,153.4625,C125,Southampton,3,,"Greenwich, CT"
+1st class,survived,"Greenfield, Mr. William Bertram",male,23,PC 17759,63.3583,D10 D12,Cherbourg,7,,"New York, NY"
+1st class,survived,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,PC 17759,63.3583,D10 D12,Cherbourg,7,,"New York, NY"
+1st class,did not survive,"Guggenheim, Mr. Benjamin",male,46,PC 17593,79.2000,B82 B84,Cherbourg,,,"New York, NY"
+1st class,survived,"Harder, Mr. George Achilles",male,25,11765,55.4417,E50,Cherbourg,5,,"Brooklyn, NY"
+1st class,survived,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,11765,55.4417,E50,Cherbourg,5,,"Brooklyn, NY"
+1st class,survived,"Harper, Mr. Henry Sleeper",male,48,PC 17572,76.7292,D33,Cherbourg,3,,"New York, NY"
+1st class,survived,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,PC 17572,76.7292,D33,Cherbourg,3,,"New York, NY"
+1st class,did not survive,"Harrington, Mr. Charles H",male,unknown,113796,42.4000,,Southampton,,,
+1st class,did not survive,"Harris, Mr. Henry Birkhardt",male,45,36973,83.4750,C83,Southampton,,,"New York, NY"
+1st class,survived,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,36973,83.4750,C83,Southampton,D,,"New York, NY"
+1st class,did not survive,"Harrison, Mr. William",male,40,112059,0.0000,B94,Southampton,,110,
+1st class,survived,"Hassab, Mr. Hammad",male,27,PC 17572,76.7292,D49,Cherbourg,3,,
+1st class,survived,"Hawksford, Mr. Walter James",male,unknown,16988,30.0000,D45,Southampton,3,,"Kingston, Surrey"
+1st class,survived,"Hays, Miss. Margaret Bechstein",female,24,11767,83.1583,C54,Cherbourg,7,,"New York, NY"
+1st class,did not survive,"Hays, Mr. Charles Melville",male,55,12749,93.5000,B69,Southampton,,307,"Montreal, PQ"
+1st class,survived,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,12749,93.5000,B69,Southampton,3,,"Montreal, PQ"
+1st class,did not survive,"Head, Mr. Christopher",male,42,113038,42.5000,B11,Southampton,,,London / Middlesex
+1st class,did not survive,"Hilliard, Mr. Herbert Henry",male,unknown,17463,51.8625,E46,Southampton,,,"Brighton, MA"
+1st class,did not survive,"Hipkins, Mr. William Edward",male,55,680,50.0000,C39,Southampton,,,London / Birmingham
+1st class,survived,"Hippach, Miss. Jean Gertrude",female,16,111361,57.9792,B18,Cherbourg,4,,"Chicago, IL"
+1st class,survived,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,111361,57.9792,B18,Cherbourg,4,,"Chicago, IL"
+1st class,survived,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,13502,77.9583,D11,Southampton,10,,"Hudson, NY"
+1st class,did not survive,"Holverson, Mr. Alexander Oskar",male,42,113789,52.0000,,Southampton,,38,"New York, NY"
+1st class,survived,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,113789,52.0000,,Southampton,8,,"New York, NY"
+1st class,survived,"Homer, Mr. Harry (""Mr E Haven"")",male,35,111426,26.5500,,Cherbourg,15,,"Indianapolis, IN"
+1st class,survived,"Hoyt, Mr. Frederick Maxfield",male,38,19943,90.0000,C93,Southampton,D,,"New York, NY /  Stamford CT"
+1st class,did not survive,"Hoyt, Mr. William Fisher",male,unknown,PC 17600,30.6958,,Cherbourg,14,,"New York, NY"
+1st class,survived,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,19943,90.0000,C93,Southampton,D,,"New York, NY /  Stamford CT"
+1st class,survived,"Icard, Miss. Amelie",female,38,113572,80.0000,B28,,6,,
+1st class,did not survive,"Isham, Miss. Ann Elizabeth",female,50,PC 17595,28.7125,C49,Cherbourg,,,"Paris, France New York, NY"
+1st class,survived,"Ismay, Mr. Joseph Bruce",male,49,112058,0.0000,B52 B54 B56,Southampton,C,,Liverpool
+1st class,did not survive,"Jones, Mr. Charles Cresson",male,46,694,26.0000,,Southampton,,80,"Bennington, VT"
+1st class,did not survive,"Julian, Mr. Henry Forbes",male,50,113044,26.0000,E60,Southampton,,,London
+1st class,did not survive,"Keeping, Mr. Edwin",male,32.5,113503,211.5000,C132,Cherbourg,,45,
+1st class,did not survive,"Kent, Mr. Edward Austin",male,58,11771,29.7000,B37,Cherbourg,,258,"Buffalo, NY"
+1st class,did not survive,"Kenyon, Mr. Frederick R",male,41,17464,51.8625,D21,Southampton,,,"Southington / Noank, CT"
+1st class,survived,"Kenyon, Mrs. Frederick R (Marion)",female,unknown,17464,51.8625,D21,Southampton,8,,"Southington / Noank, CT"
+1st class,survived,"Kimball, Mr. Edwin Nelson Jr",male,42,11753,52.5542,D19,Southampton,5,,"Boston, MA"
+1st class,survived,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,11753,52.5542,D19,Southampton,5,,"Boston, MA"
+1st class,did not survive,"Klaber, Mr. Herman",male,unknown,113028,26.5500,C124,Southampton,,,"Portland, OR"
+1st class,survived,"Kreuchen, Miss. Emilie",female,39,24160,211.3375,,Southampton,2,,
+1st class,survived,"Leader, Dr. Alice (Farnham)",female,49,17465,25.9292,D17,Southampton,8,,"New York, NY"
+1st class,survived,"LeRoy, Miss. Bertha",female,30,PC 17761,106.4250,,Cherbourg,2,,
+1st class,survived,"Lesurer, Mr. Gustave J",male,35,PC 17755,512.3292,B101,Cherbourg,3,,
+1st class,did not survive,"Lewy, Mr. Ervin G",male,unknown,PC 17612,27.7208,,Cherbourg,,,"Chicago, IL"
+1st class,did not survive,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42,17475,26.5500,,Southampton,,,"Stockholm, Sweden"
+1st class,survived,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,112377,27.7208,,Cherbourg,6,,"Stockholm, Sweden"
+1st class,survived,"Lines, Miss. Mary Conover",female,16,PC 17592,39.4000,D28,Southampton,9,,"Paris, France"
+1st class,survived,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,PC 17592,39.4000,D28,Southampton,9,,"Paris, France"
+1st class,did not survive,"Long, Mr. Milton Clyde",male,29,113501,30.0000,D6,Southampton,,126,"Springfield, MA"
+1st class,survived,"Longley, Miss. Gretchen Fiske",female,21,13502,77.9583,D9,Southampton,10,,"Hudson, NY"
+1st class,did not survive,"Loring, Mr. Joseph Holland",male,30,113801,45.5000,,Southampton,,,"London / New York, NY"
+1st class,survived,"Lurette, Miss. Elise",female,58,PC 17569,146.5208,B80,Cherbourg,,,
+1st class,survived,"Madill, Miss. Georgette Alexandra",female,15,24160,211.3375,B5,Southampton,2,,"St Louis, MO"
+1st class,did not survive,"Maguire, Mr. John Edward",male,30,110469,26.0000,C106,Southampton,,,"Brockton, MA"
+1st class,survived,"Maioni, Miss. Roberta",female,16,110152,86.5000,B79,Southampton,8,,
+1st class,survived,"Marechal, Mr. Pierre",male,unknown,11774,29.7000,C47,Cherbourg,7,,"Paris, France"
+1st class,did not survive,"Marvin, Mr. Daniel Warner",male,19,113773,53.1000,D30,Southampton,,,"New York, NY"
+1st class,survived,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,113773,53.1000,D30,Southampton,10,,"New York, NY"
+1st class,survived,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,PC 17482,49.5042,C90,Cherbourg,6,,"Belgium  Montreal, PQ"
+1st class,did not survive,"McCaffry, Mr. Thomas Francis",male,46,13050,75.2417,C6,Cherbourg,,292,"Vancouver, BC"
+1st class,did not survive,"McCarthy, Mr. Timothy J",male,54,17463,51.8625,E46,Southampton,,175,"Dorchester, MA"
+1st class,survived,"McGough, Mr. James Robert",male,36,PC 17473,26.2875,E25,Southampton,7,,"Philadelphia, PA"
+1st class,did not survive,"Meyer, Mr. Edgar Joseph",male,28,PC 17604,82.1708,,Cherbourg,,,"New York, NY"
+1st class,survived,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,unknown,PC 17604,82.1708,,Cherbourg,6,,"New York, NY"
+1st class,did not survive,"Millet, Mr. Francis Davis",male,65,13509,26.5500,E38,Southampton,,249,"East Bridgewater, MA"
+1st class,did not survive,"Minahan, Dr. William Edward",male,44,19928,90.0000,C78,Queenstown,,230,"Fond du Lac, WI"
+1st class,survived,"Minahan, Miss. Daisy E",female,33,19928,90.0000,C78,Queenstown,14,,"Green Bay, WI"
+1st class,survived,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,19928,90.0000,C78,Queenstown,14,,"Fond du Lac, WI"
+1st class,survived,"Mock, Mr. Philipp Edmund",male,30,13236,57.7500,C78,Cherbourg,11,,"New York, NY"
+1st class,did not survive,"Molson, Mr. Harry Markland",male,55,113787,30.5000,C30,Southampton,,,"Montreal, PQ"
+1st class,did not survive,"Moore, Mr. Clarence Bloomfield",male,47,113796,42.4000,,Southampton,,,"Washington, DC"
+1st class,did not survive,"Natsch, Mr. Charles H",male,37,PC 17596,29.7000,C118,Cherbourg,,,"Brooklyn, NY"
+1st class,survived,"Newell, Miss. Madeleine",female,31,35273,113.2750,D36,Cherbourg,6,,"Lexington, MA"
+1st class,survived,"Newell, Miss. Marjorie",female,23,35273,113.2750,D36,Cherbourg,6,,"Lexington, MA"
+1st class,did not survive,"Newell, Mr. Arthur Webster",male,58,35273,113.2750,D48,Cherbourg,,122,"Lexington, MA"
+1st class,survived,"Newsom, Miss. Helen Monypeny",female,19,11752,26.2833,D47,Southampton,5,,"New York, NY"
+1st class,did not survive,"Nicholson, Mr. Arthur Ernest",male,64,693,26.0000,,Southampton,,263,"Isle of Wight, England"
+1st class,survived,"Oliva y Ocana, Dona. Fermina",female,39,PC 17758,108.9000,C105,Cherbourg,8,,
+1st class,survived,"Omont, Mr. Alfred Fernand",male,unknown,F.C. 12998,25.7417,,Cherbourg,7,,"Paris, France"
+1st class,survived,"Ostby, Miss. Helene Ragnhild",female,22,113509,61.9792,B36,Cherbourg,5,,"Providence, RI"
+1st class,did not survive,"Ostby, Mr. Engelhart Cornelius",male,65,113509,61.9792,B30,Cherbourg,,234,"Providence, RI"
+1st class,did not survive,"Ovies y Rodriguez, Mr. Servando",male,28.5,PC 17562,27.7208,D43,Cherbourg,,189,"?Havana, Cuba"
+1st class,did not survive,"Parr, Mr. William Henry Marsh",male,unknown,112052,0.0000,,Southampton,,,Belfast
+1st class,did not survive,"Partner, Mr. Austen",male,45.5,113043,28.5000,C124,Southampton,,166,"Surbiton Hill, Surrey"
+1st class,did not survive,"Payne, Mr. Vivian Ponsonby",male,23,12749,93.5000,B24,Southampton,,,"Montreal, PQ"
+1st class,did not survive,"Pears, Mr. Thomas Clinton",male,29,113776,66.6000,C2,Southampton,,,"Isleworth, England"
+1st class,survived,"Pears, Mrs. Thomas (Edith Wearne)",female,22,113776,66.6000,C2,Southampton,8,,"Isleworth, England"
+1st class,did not survive,"Penasco y Castellana, Mr. Victor de Satode",male,18,PC 17758,108.9000,C65,Cherbourg,,,"Madrid, Spain"
+1st class,survived,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,PC 17758,108.9000,C65,Cherbourg,8,,"Madrid, Spain"
+1st class,survived,"Perreault, Miss. Anne",female,30,12749,93.5000,B73,Southampton,3,,
+1st class,survived,"Peuchen, Major. Arthur Godfrey",male,52,113786,30.5000,C104,Southampton,6,,"Toronto, ON"
+1st class,did not survive,"Porter, Mr. Walter Chamberlain",male,47,110465,52.0000,C110,Southampton,,207,"Worcester, MA"
+1st class,survived,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,11767,83.1583,C50,Cherbourg,7,,"Mt Airy, Philadelphia, PA"
+1st class,did not survive,"Reuchlin, Jonkheer. John George",male,38,19972,0.0000,,Southampton,,,"Rotterdam, Netherlands"
+1st class,survived,"Rheims, Mr. George Alexander Lucien",male,unknown,PC 17607,39.6000,,Southampton,A,,"Paris /  New York, NY"
+1st class,did not survive,"Ringhini, Mr. Sante",male,22,PC 17760,135.6333,,Cherbourg,,232,
+1st class,did not survive,"Robbins, Mr. Victor",male,unknown,PC 17757,227.5250,,Cherbourg,,,
+1st class,survived,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,24160,211.3375,B3,Southampton,2,,"St Louis, MO"
+1st class,did not survive,"Roebling, Mr. Washington Augustus II",male,31,PC 17590,50.4958,A24,Southampton,,,"Trenton, NJ"
+1st class,survived,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,111428,26.5500,,Southampton,9,,"New York, NY"
+1st class,did not survive,"Rood, Mr. Hugh Roscoe",male,unknown,113767,50.0000,A32,Southampton,,,"Seattle, WA"
+1st class,survived,"Rosenbaum, Miss. Edith Louise",female,33,PC 17613,27.7208,A11,Cherbourg,11,,"Paris, France"
+1st class,did not survive,"Rosenshine, Mr. George (""Mr George Thorne"")",male,46,PC 17585,79.2000,,Cherbourg,,16,"New York, NY"
+1st class,did not survive,"Ross, Mr. John Hugo",male,36,13049,40.1250,A10,Cherbourg,,,"Winnipeg, MB"
+1st class,survived,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,110152,86.5000,B77,Southampton,8,,"London  Vancouver, BC"
+1st class,did not survive,"Rothschild, Mr. Martin",male,55,PC 17603,59.4000,,Cherbourg,,,"New York, NY"
+1st class,survived,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,PC 17603,59.4000,,Cherbourg,6,,"New York, NY"
+1st class,did not survive,"Rowe, Mr. Alfred G",male,33,113790,26.5500,,Southampton,,109,London
+1st class,survived,"Ryerson, Master. John Borie",male,13,PC 17608,262.3750,B57 B59 B63 B66,Cherbourg,4,,"Haverford, PA / Cooperstown, NY"
+1st class,survived,"Ryerson, Miss. Emily Borie",female,18,PC 17608,262.3750,B57 B59 B63 B66,Cherbourg,4,,"Haverford, PA / Cooperstown, NY"
+1st class,survived,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,PC 17608,262.3750,B57 B59 B63 B66,Cherbourg,4,,"Haverford, PA / Cooperstown, NY"
+1st class,did not survive,"Ryerson, Mr. Arthur Larned",male,61,PC 17608,262.3750,B57 B59 B63 B66,Cherbourg,,,"Haverford, PA / Cooperstown, NY"
+1st class,survived,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,PC 17608,262.3750,B57 B59 B63 B66,Cherbourg,4,,"Haverford, PA / Cooperstown, NY"
+1st class,survived,"Saalfeld, Mr. Adolphe",male,unknown,19988,30.5000,C106,Southampton,3,,"Manchester, England"
+1st class,survived,"Sagesser, Mlle. Emma",female,24,PC 17477,69.3000,B35,Cherbourg,9,,
+1st class,survived,"Salomon, Mr. Abraham L",male,unknown,111163,26.0000,,Southampton,1,,"New York, NY"
+1st class,survived,"Schabert, Mrs. Paul (Emma Mock)",female,35,13236,57.7500,C28,Cherbourg,11,,"New York, NY"
+1st class,survived,"Serepeca, Miss. Augusta",female,30,113798,31.0000,,Cherbourg,4,,
+1st class,survived,"Seward, Mr. Frederic Kimber",male,34,113794,26.5500,,Southampton,7,,"New York, NY"
+1st class,survived,"Shutes, Miss. Elizabeth W",female,40,PC 17582,153.4625,C125,Southampton,3,,"New York, NY / Greenwich CT"
+1st class,survived,"Silverthorne, Mr. Spencer Victor",male,35,PC 17475,26.2875,E24,Southampton,5,,"St Louis, MO"
+1st class,did not survive,"Silvey, Mr. William Baird",male,50,13507,55.9000,E44,Southampton,,,"Duluth, MN"
+1st class,survived,"Silvey, Mrs. William Baird (Alice Munger)",female,39,13507,55.9000,E44,Southampton,11,,"Duluth, MN"
+1st class,survived,"Simonius-Blumer, Col. Oberst Alfons",male,56,13213,35.5000,A26,Cherbourg,3,,"Basel, Switzerland"
+1st class,survived,"Sloper, Mr. William Thompson",male,28,113788,35.5000,A6,Southampton,7,,"New Britain, CT"
+1st class,did not survive,"Smart, Mr. John Montgomery",male,56,113792,26.5500,,Southampton,,,"New York, NY"
+1st class,did not survive,"Smith, Mr. James Clinch",male,56,17764,30.6958,A7,Cherbourg,,,"St James, Long Island, NY"
+1st class,did not survive,"Smith, Mr. Lucien Philip",male,24,13695,60.0000,C31,Southampton,,,"Huntington, WV"
+1st class,did not survive,"Smith, Mr. Richard William",male,unknown,113056,26.0000,A19,Southampton,,,"Streatham, Surrey"
+1st class,survived,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,13695,60.0000,C31,Southampton,6,,"Huntington, WV"
+1st class,survived,"Snyder, Mr. John Pillsbury",male,24,21228,82.2667,B45,Southampton,7,,"Minneapolis, MN"
+1st class,survived,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,21228,82.2667,B45,Southampton,7,,"Minneapolis, MN"
+1st class,survived,"Spedden, Master. Robert Douglas",male,6,16966,134.5000,E34,Cherbourg,3,,"Tuxedo Park, NY"
+1st class,survived,"Spedden, Mr. Frederic Oakley",male,45,16966,134.5000,E34,Cherbourg,3,,"Tuxedo Park, NY"
+1st class,survived,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,16966,134.5000,E34,Cherbourg,3,,"Tuxedo Park, NY"
+1st class,did not survive,"Spencer, Mr. William Augustus",male,57,PC 17569,146.5208,B78,Cherbourg,,,"Paris, France"
+1st class,survived,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,unknown,PC 17569,146.5208,B78,Cherbourg,6,,"Paris, France"
+1st class,survived,"Stahelin-Maeglin, Dr. Max",male,32,13214,30.5000,B50,Cherbourg,3,,"Basel, Switzerland"
+1st class,did not survive,"Stead, Mr. William Thomas",male,62,113514,26.5500,C87,Southampton,,,"Wimbledon Park, London / Hayling Island, Hants"
+1st class,survived,"Stengel, Mr. Charles Emil Henry",male,54,11778,55.4417,C116,Cherbourg,1,,"Newark, NJ"
+1st class,survived,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,11778,55.4417,C116,Cherbourg,5,,"Newark, NJ"
+1st class,survived,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,36947,78.2667,D20,Cherbourg,4,,"Haverford, PA"
+1st class,did not survive,"Stewart, Mr. Albert A",male,unknown,PC 17605,27.7208,,Cherbourg,,,"Gallipolis, Ohio / ? Paris / New York"
+1st class,survived,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,113572,80.0000,B28,,6,,"Cincinatti, OH"
+1st class,did not survive,"Straus, Mr. Isidor",male,67,PC 17483,221.7792,C55 C57,Southampton,,96,"New York, NY"
+1st class,did not survive,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,PC 17483,221.7792,C55 C57,Southampton,,,"New York, NY"
+1st class,did not survive,"Sutton, Mr. Frederick",male,61,36963,32.3208,D50,Southampton,,46,"Haddenfield, NJ"
+1st class,survived,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,17466,25.9292,D17,Southampton,8,,"Brooklyn, NY"
+1st class,survived,"Taussig, Miss. Ruth",female,18,110413,79.6500,E68,Southampton,8,,"New York, NY"
+1st class,did not survive,"Taussig, Mr. Emil",male,52,110413,79.6500,E67,Southampton,,,"New York, NY"
+1st class,survived,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,110413,79.6500,E67,Southampton,8,,"New York, NY"
+1st class,survived,"Taylor, Mr. Elmer Zebley",male,48,19996,52.0000,C126,Southampton,5 7,,"London /  East Orange, NJ"
+1st class,survived,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,unknown,19996,52.0000,C126,Southampton,5 7,,"London /  East Orange, NJ"
+1st class,did not survive,"Thayer, Mr. John Borland",male,49,17421,110.8833,C68,Cherbourg,,,"Haverford, PA"
+1st class,survived,"Thayer, Mr. John Borland Jr",male,17,17421,110.8833,C70,Cherbourg,B,,"Haverford, PA"
+1st class,survived,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,17421,110.8833,C68,Cherbourg,4,,"Haverford, PA"
+1st class,survived,"Thorne, Mrs. Gertrude Maybelle",female,unknown,PC 17585,79.2000,,Cherbourg,D,,"New York, NY"
+1st class,survived,"Tucker, Mr. Gilbert Milligan Jr",male,31,2543,28.5375,C53,Cherbourg,7,,"Albany, NY"
+1st class,did not survive,"Uruchurtu, Don. Manuel E",male,40,PC 17601,27.7208,,Cherbourg,,,"Mexico City, Mexico"
+1st class,did not survive,"Van der hoef, Mr. Wyckoff",male,61,111240,33.5000,B19,Southampton,,245,"Brooklyn, NY"
+1st class,did not survive,"Walker, Mr. William Anderson",male,47,36967,34.0208,D46,Southampton,,,"East Orange, NJ"
+1st class,survived,"Ward, Miss. Anna",female,35,PC 17755,512.3292,,Cherbourg,3,,
+1st class,did not survive,"Warren, Mr. Frank Manley",male,64,110813,75.2500,D37,Cherbourg,,,"Portland, OR"
+1st class,survived,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,110813,75.2500,D37,Cherbourg,5,,"Portland, OR"
+1st class,did not survive,"Weir, Col. John",male,60,113800,26.5500,,Southampton,,,"England Salt Lake City, Utah"
+1st class,did not survive,"White, Mr. Percival Wayland",male,54,35281,77.2875,D26,Southampton,,,"Brunswick, ME"
+1st class,did not survive,"White, Mr. Richard Frasar",male,21,35281,77.2875,D26,Southampton,,169,"Brunswick, ME"
+1st class,survived,"White, Mrs. John Stuart (Ella Holmes)",female,55,PC 17760,135.6333,C32,Cherbourg,8,,"New York, NY / Briarcliff Manor NY"
+1st class,survived,"Wick, Miss. Mary Natalie",female,31,36928,164.8667,C7,Southampton,8,,"Youngstown, OH"
+1st class,did not survive,"Wick, Mr. George Dennick",male,57,36928,164.8667,,Southampton,,,"Youngstown, OH"
+1st class,survived,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,36928,164.8667,,Southampton,8,,"Youngstown, OH"
+1st class,did not survive,"Widener, Mr. George Dunton",male,50,113503,211.5000,C80,Cherbourg,,,"Elkins Park, PA"
+1st class,did not survive,"Widener, Mr. Harry Elkins",male,27,113503,211.5000,C82,Cherbourg,,,"Elkins Park, PA"
+1st class,survived,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,113503,211.5000,C80,Cherbourg,4,,"Elkins Park, PA"
+1st class,survived,"Willard, Miss. Constance",female,21,113795,26.5500,,Southampton,8 10,,"Duluth, MN"
+1st class,did not survive,"Williams, Mr. Charles Duane",male,51,PC 17597,61.3792,,Cherbourg,,,"Geneva, Switzerland / Radnor, PA"
+1st class,survived,"Williams, Mr. Richard Norris II",male,21,PC 17597,61.3792,,Cherbourg,A,,"Geneva, Switzerland / Radnor, PA"
+1st class,did not survive,"Williams-Lambert, Mr. Fletcher Fellows",male,unknown,113510,35.0000,C128,Southampton,,,"London, England"
+1st class,survived,"Wilson, Miss. Helen Alice",female,31,16966,134.5000,E39 E41,Cherbourg,3,,
+1st class,survived,"Woolner, Mr. Hugh",male,unknown,19947,35.5000,C52,Southampton,D,,"London, England"
+1st class,did not survive,"Wright, Mr. George",male,62,113807,26.5500,,Southampton,,,"Halifax, NS"
+1st class,survived,"Young, Miss. Marie Grice",female,36,PC 17760,135.6333,C32,Cherbourg,8,,"New York, NY / Washington, DC"
+2nd class,did not survive,"Abelson, Mr. Samuel",male,30,P/PP 3381,24.0000,,Cherbourg,,,"Russia New York, NY"
+2nd class,survived,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,P/PP 3381,24.0000,,Cherbourg,10,,"Russia New York, NY"
+2nd class,did not survive,"Aldworth, Mr. Charles Augustus",male,30,248744,13.0000,,Southampton,,,"Bryn Mawr, PA, USA"
+2nd class,did not survive,"Andrew, Mr. Edgardo Samuel",male,18,231945,11.5000,,Southampton,,,"Buenos Aires, Argentina / New Jersey, NJ"
+2nd class,did not survive,"Andrew, Mr. Frank Thomas",male,25,C.A. 34050,10.5000,,Southampton,,,"Cornwall, England Houghton, MI"
+2nd class,did not survive,"Angle, Mr. William A",male,34,226875,26.0000,,Southampton,,,"Warwick, England"
+2nd class,survived,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,226875,26.0000,,Southampton,11,,"Warwick, England"
+2nd class,did not survive,"Ashby, Mr. John",male,57,244346,13.0000,,Southampton,,,"West Hoboken, NJ"
+2nd class,did not survive,"Bailey, Mr. Percy Andrew",male,18,29108,11.5000,,Southampton,,,"Penzance, Cornwall / Akron, OH"
+2nd class,did not survive,"Baimbrigge, Mr. Charles Robert",male,23,C.A. 31030,10.5000,,Southampton,,,Guernsey
+2nd class,survived,"Ball, Mrs. (Ada E Hall)",female,36,28551,13.0000,D,Southampton,10,,"Bristol, Avon / Jacksonville, FL"
+2nd class,did not survive,"Banfield, Mr. Frederick James",male,28,C.A./SOTON 34068,10.5000,,Southampton,,,"Plymouth, Dorset / Houghton, MI"
+2nd class,did not survive,"Bateman, Rev. Robert James",male,51,S.O.P. 1166,12.5250,,Southampton,,174,"Jacksonville, FL"
+2nd class,survived,"Beane, Mr. Edward",male,32,2908,26.0000,,Southampton,13,,"Norwich / New York, NY"
+2nd class,survived,"Beane, Mrs. Edward (Ethel Clarke)",female,19,2908,26.0000,,Southampton,13,,"Norwich / New York, NY"
+2nd class,did not survive,"Beauchamp, Mr. Henry James",male,28,244358,26.0000,,Southampton,,,England
+2nd class,survived,"Becker, Master. Richard F",male,1,230136,39.0000,F4,Southampton,11,,"Guntur, India / Benton Harbour, MI"
+2nd class,survived,"Becker, Miss. Marion Louise",female,4,230136,39.0000,F4,Southampton,11,,"Guntur, India / Benton Harbour, MI"
+2nd class,survived,"Becker, Miss. Ruth Elizabeth",female,12,230136,39.0000,F4,Southampton,13,,"Guntur, India / Benton Harbour, MI"
+2nd class,survived,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,230136,39.0000,F4,Southampton,11,,"Guntur, India / Benton Harbour, MI"
+2nd class,survived,"Beesley, Mr. Lawrence",male,34,248698,13.0000,D56,Southampton,13,,London
+2nd class,survived,"Bentham, Miss. Lilian W",female,19,28404,13.0000,,Southampton,12,,"Rochester, NY"
+2nd class,did not survive,"Berriman, Mr. William John",male,23,28425,13.0000,,Southampton,,,"St Ives, Cornwall / Calumet, MI"
+2nd class,did not survive,"Botsford, Mr. William Hull",male,26,237670,13.0000,,Southampton,,,"Elmira, NY / Orange, NJ"
+2nd class,did not survive,"Bowenur, Mr. Solomon",male,42,211535,13.0000,,Southampton,,,London
+2nd class,did not survive,"Bracken, Mr. James H",male,27,220367,13.0000,,Southampton,,,"Lake Arthur, Chavez County, NM"
+2nd class,survived,"Brown, Miss. Amelia ""Mildred""",female,24,248733,13.0000,F33,Southampton,11,,"London / Montreal, PQ"
+2nd class,survived,"Brown, Miss. Edith Eileen",female,15,29750,39.0000,,Southampton,14,,"Cape Town, South Africa / Seattle, WA"
+2nd class,did not survive,"Brown, Mr. Thomas William Solomon",male,60,29750,39.0000,,Southampton,,,"Cape Town, South Africa / Seattle, WA"
+2nd class,survived,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,29750,39.0000,,Southampton,14,,"Cape Town, South Africa / Seattle, WA"
+2nd class,survived,"Bryhl, Miss. Dagmar Jenny Ingeborg",female,20,236853,26.0000,,Southampton,12,,"Skara, Sweden / Rockford, IL"
+2nd class,did not survive,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,236853,26.0000,,Southampton,,,"Skara, Sweden / Rockford, IL"
+2nd class,survived,"Buss, Miss. Kate",female,36,27849,13.0000,,Southampton,9,,"Sittingbourne, England / San Diego, CA"
+2nd class,did not survive,"Butler, Mr. Reginald Fenton",male,25,234686,13.0000,,Southampton,,97,"Southsea, Hants"
+2nd class,did not survive,"Byles, Rev. Thomas Roussel Davids",male,42,244310,13.0000,,Southampton,,,London
+2nd class,survived,"Bystrom, Mrs. (Karolina)",female,42,236852,13.0000,,Southampton,,,"New York, NY"
+2nd class,survived,"Caldwell, Master. Alden Gates",male,0.83,248738,29.0000,,Southampton,13,,"Bangkok, Thailand / Roseville, IL"
+2nd class,survived,"Caldwell, Mr. Albert Francis",male,26,248738,29.0000,,Southampton,13,,"Bangkok, Thailand / Roseville, IL"
+2nd class,survived,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,248738,29.0000,,Southampton,13,,"Bangkok, Thailand / Roseville, IL"
+2nd class,survived,"Cameron, Miss. Clear Annie",female,35,F.C.C. 13528,21.0000,,Southampton,14,,"Mamaroneck, NY"
+2nd class,did not survive,"Campbell, Mr. William",male,unknown,239853,0.0000,,Southampton,,,Belfast
+2nd class,did not survive,"Carbines, Mr. William",male,19,28424,13.0000,,Southampton,,18,"St Ives, Cornwall / Calumet, MI"
+2nd class,did not survive,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,244252,26.0000,,Southampton,,,London
+2nd class,did not survive,"Carter, Rev. Ernest Courtenay",male,54,244252,26.0000,,Southampton,,,London
+2nd class,did not survive,"Chapman, Mr. Charles Henry",male,52,248731,13.5000,,Southampton,,130,"Bronx, NY"
+2nd class,did not survive,"Chapman, Mr. John Henry",male,37,SC/AH 29037,26.0000,,Southampton,,17,"Cornwall / Spokane, WA"
+2nd class,did not survive,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,SC/AH 29037,26.0000,,Southampton,,,"Cornwall / Spokane, WA"
+2nd class,survived,"Christy, Miss. Julie Rachel",female,25,237789,30.0000,,Southampton,12,,London
+2nd class,survived,"Christy, Mrs. (Alice Frances)",female,45,237789,30.0000,,Southampton,12,,London
+2nd class,did not survive,"Clarke, Mr. Charles Valentine",male,29,2003,26.0000,,Southampton,,,"England / San Francisco, CA"
+2nd class,survived,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,2003,26.0000,,Southampton,14,,"England / San Francisco, CA"
+2nd class,did not survive,"Coleridge, Mr. Reginald Charles",male,29,W./C. 14263,10.5000,,Southampton,,,"Hartford, Huntingdonshire"
+2nd class,did not survive,"Collander, Mr. Erik Gustaf",male,28,248740,13.0000,,Southampton,,,"Helsinki, Finland Ashtabula, Ohio"
+2nd class,survived,"Collett, Mr. Sidney C Stuart",male,24,28034,10.5000,,Southampton,9,,"London / Fort Byron, NY"
+2nd class,survived,"Collyer, Miss. Marjorie ""Lottie""",female,8,C.A. 31921,26.2500,,Southampton,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+2nd class,did not survive,"Collyer, Mr. Harvey",male,31,C.A. 31921,26.2500,,Southampton,,,"Bishopstoke, Hants / Fayette Valley, ID"
+2nd class,survived,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,C.A. 31921,26.2500,,Southampton,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+2nd class,survived,"Cook, Mrs. (Selena Rogers)",female,22,W./C. 14266,10.5000,F33,Southampton,14,,Pennsylvania
+2nd class,did not survive,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,237249,13.0000,,Southampton,,,"Provo, UT"
+2nd class,did not survive,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,unknown,F.C.C. 13534,21.0000,,Southampton,,,"Upper Burma, India Pittsburgh, PA"
+2nd class,did not survive,"Cotterill, Mr. Henry ""Harry""",male,21,29107,11.5000,,Southampton,,,"Penzance, Cornwall / Akron, OH"
+2nd class,did not survive,"Cunningham, Mr. Alfred Fleming",male,unknown,239853,0.0000,,Southampton,,,Belfast
+2nd class,survived,"Davies, Master. John Morgan Jr",male,8,C.A. 33112,36.7500,,Southampton,14,,"St Ives, Cornwall / Hancock, MI"
+2nd class,did not survive,"Davies, Mr. Charles Henry",male,18,S.O.C. 14879,73.5000,,Southampton,,,"Lyndhurst, England"
+2nd class,survived,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",female,48,C.A. 33112,36.7500,,Southampton,14,,"St Ives, Cornwall / Hancock, MI"
+2nd class,survived,"Davis, Miss. Mary",female,28,237668,13.0000,,Southampton,13,,"London / Staten Island, NY"
+2nd class,did not survive,"de Brito, Mr. Jose Joaquim",male,32,244360,13.0000,,Southampton,,,"Portugal / Sau Paulo, Brazil"
+2nd class,did not survive,"Deacon, Mr. Percy William",male,17,S.O.C. 14879,73.5000,,Southampton,,,
+2nd class,did not survive,"del Carlo, Mr. Sebastiano",male,29,SC/PARIS 2167,27.7208,,Cherbourg,,295,"Lucca, Italy / California"
+2nd class,survived,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,SC/PARIS 2167,27.7208,,Cherbourg,12,,"Lucca, Italy / California"
+2nd class,did not survive,"Denbury, Mr. Herbert",male,25,C.A. 31029,31.5000,,Southampton,,,"Guernsey / Elizabeth, NJ"
+2nd class,did not survive,"Dibden, Mr. William",male,18,S.O.C. 14879,73.5000,,Southampton,,,"New Forest, England"
+2nd class,survived,"Doling, Miss. Elsie",female,18,231919,23.0000,,Southampton,,,Southampton
+2nd class,survived,"Doling, Mrs. John T (Ada Julia Bone)",female,34,231919,23.0000,,Southampton,,,Southampton
+2nd class,did not survive,"Downton, Mr. William James",male,54,28403,26.0000,,Southampton,,,"Holley, NY"
+2nd class,survived,"Drew, Master. Marshall Brines",male,8,28220,32.5000,,Southampton,10,,"Greenport, NY"
+2nd class,did not survive,"Drew, Mr. James Vivian",male,42,28220,32.5000,,Southampton,,,"Greenport, NY"
+2nd class,survived,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,28220,32.5000,,Southampton,10,,"Greenport, NY"
+2nd class,survived,"Duran y More, Miss. Asuncion",female,27,SC/PARIS 2149,13.8583,,Cherbourg,12,,"Barcelona, Spain / Havana, Cuba"
+2nd class,survived,"Duran y More, Miss. Florentina",female,30,SC/PARIS 2148,13.8583,,Cherbourg,12,,"Barcelona, Spain / Havana, Cuba"
+2nd class,did not survive,"Eitemiller, Mr. George Floyd",male,23,29751,13.0000,,Southampton,,,"England / Detroit, MI"
+2nd class,did not survive,"Enander, Mr. Ingvar",male,21,236854,13.0000,,Southampton,,,"Goteborg, Sweden / Rockford, IL"
+2nd class,did not survive,"Fahlstrom, Mr. Arne Jonas",male,18,236171,13.0000,,Southampton,,,"Oslo, Norway Bayonne, NJ"
+2nd class,did not survive,"Faunthorpe, Mr. Harry",male,40,2926,26.0000,,Southampton,,286,"England / Philadelphia, PA"
+2nd class,survived,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,2926,26.0000,,Southampton,16,,
+2nd class,did not survive,"Fillbrook, Mr. Joseph Charles",male,18,C.A. 15185,10.5000,,Southampton,,,"Cornwall / Houghton, MI"
+2nd class,did not survive,"Fox, Mr. Stanley Hubert",male,36,229236,13.0000,,Southampton,,236,"Rochester, NY"
+2nd class,did not survive,"Frost, Mr. Anthony Wood ""Archie""",male,unknown,239854,0.0000,,Southampton,,,Belfast
+2nd class,did not survive,"Funk, Miss. Annie Clemmer",female,38,237671,13.0000,,Southampton,,,"Janjgir, India / Pennsylvania"
+2nd class,did not survive,"Fynney, Mr. Joseph J",male,35,239865,26.0000,,Southampton,,322,"Liverpool / Montreal, PQ"
+2nd class,did not survive,"Gale, Mr. Harry",male,38,28664,21.0000,,Southampton,,,"Cornwall / Clear Creek, CO"
+2nd class,did not survive,"Gale, Mr. Shadrach",male,34,28664,21.0000,,Southampton,,,"Cornwall / Clear Creek, CO"
+2nd class,survived,"Garside, Miss. Ethel",female,34,243880,13.0000,,Southampton,12,,"Brooklyn, NY"
+2nd class,did not survive,"Gaskell, Mr. Alfred",male,16,239865,26.0000,,Southampton,,,"Liverpool / Montreal, PQ"
+2nd class,did not survive,"Gavey, Mr. Lawrence",male,26,31028,10.5000,,Southampton,,,"Guernsey / Elizabeth, NJ"
+2nd class,did not survive,"Gilbert, Mr. William",male,47,C.A. 30769,10.5000,,Southampton,,,Cornwall
+2nd class,did not survive,"Giles, Mr. Edgar",male,21,28133,11.5000,,Southampton,,,"Cornwall / Camden, NJ"
+2nd class,did not survive,"Giles, Mr. Frederick Edward",male,21,28134,11.5000,,Southampton,,,"Cornwall / Camden, NJ"
+2nd class,did not survive,"Giles, Mr. Ralph",male,24,248726,13.5000,,Southampton,,297,"West Kensington, London"
+2nd class,did not survive,"Gill, Mr. John William",male,24,233866,13.0000,,Southampton,,155,"Clevedon, England"
+2nd class,did not survive,"Gillespie, Mr. William Henry",male,34,12233,13.0000,,Southampton,,,"Vancouver, BC"
+2nd class,did not survive,"Givard, Mr. Hans Kristensen",male,30,250646,13.0000,,Southampton,,305,
+2nd class,did not survive,"Greenberg, Mr. Samuel",male,52,250647,13.0000,,Southampton,,19,"Bronx, NY"
+2nd class,did not survive,"Hale, Mr. Reginald",male,30,250653,13.0000,,Southampton,,75,"Auburn, NY"
+2nd class,survived,"Hamalainen, Master. Viljo",male,0.67,250649,14.5000,,Southampton,4,,"Detroit, MI"
+2nd class,survived,"Hamalainen, Mrs. William (Anna)",female,24,250649,14.5000,,Southampton,4,,"Detroit, MI"
+2nd class,did not survive,"Harbeck, Mr. William H",male,44,248746,13.0000,,Southampton,,35,"Seattle, WA / Toledo, OH"
+2nd class,survived,"Harper, Miss. Annie Jessie ""Nina""",female,6,248727,33.0000,,Southampton,11,,"Denmark Hill, Surrey / Chicago"
+2nd class,did not survive,"Harper, Rev. John",male,28,248727,33.0000,,Southampton,,,"Denmark Hill, Surrey / Chicago"
+2nd class,survived,"Harris, Mr. George",male,62,S.W./PP 752,10.5000,,Southampton,15,,London
+2nd class,did not survive,"Harris, Mr. Walter",male,30,W/C 14208,10.5000,,Southampton,,,"Walthamstow, England"
+2nd class,survived,"Hart, Miss. Eva Miriam",female,7,F.C.C. 13529,26.2500,,Southampton,14,,"Ilford, Essex / Winnipeg, MB"
+2nd class,did not survive,"Hart, Mr. Benjamin",male,43,F.C.C. 13529,26.2500,,Southampton,,,"Ilford, Essex / Winnipeg, MB"
+2nd class,survived,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,F.C.C. 13529,26.2500,,Southampton,14,,"Ilford, Essex / Winnipeg, MB"
+2nd class,survived,"Herman, Miss. Alice",female,24,220845,65.0000,,Southampton,9,,"Somerset / Bernardsville, NJ"
+2nd class,survived,"Herman, Miss. Kate",female,24,220845,65.0000,,Southampton,9,,"Somerset / Bernardsville, NJ"
+2nd class,did not survive,"Herman, Mr. Samuel",male,49,220845,65.0000,,Southampton,,,"Somerset / Bernardsville, NJ"
+2nd class,survived,"Herman, Mrs. Samuel (Jane Laver)",female,48,220845,65.0000,,Southampton,9,,"Somerset / Bernardsville, NJ"
+2nd class,survived,"Hewlett, Mrs. (Mary D Kingcome)",female,55,248706,16.0000,,Southampton,13,,"India / Rapid City, SD"
+2nd class,did not survive,"Hickman, Mr. Leonard Mark",male,24,S.O.C. 14879,73.5000,,Southampton,,,"West Hampstead, London / Neepawa, MB"
+2nd class,did not survive,"Hickman, Mr. Lewis",male,32,S.O.C. 14879,73.5000,,Southampton,,256,"West Hampstead, London / Neepawa, MB"
+2nd class,did not survive,"Hickman, Mr. Stanley George",male,21,S.O.C. 14879,73.5000,,Southampton,,,"West Hampstead, London / Neepawa, MB"
+2nd class,did not survive,"Hiltunen, Miss. Marta",female,18,250650,13.0000,,Southampton,,,"Kontiolahti, Finland / Detroit, MI"
+2nd class,survived,"Hocking, Miss. Ellen ""Nellie""",female,20,29105,23.0000,,Southampton,4,,"Cornwall / Akron, OH"
+2nd class,did not survive,"Hocking, Mr. Richard George",male,23,29104,11.5000,,Southampton,,,"Cornwall / Akron, OH"
+2nd class,did not survive,"Hocking, Mr. Samuel James Metcalfe",male,36,242963,13.0000,,Southampton,,,"Devonport, England"
+2nd class,survived,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,29105,23.0000,,Southampton,4,,"Cornwall / Akron, OH"
+2nd class,did not survive,"Hodges, Mr. Henry Price",male,50,250643,13.0000,,Southampton,,149,Southampton
+2nd class,did not survive,"Hold, Mr. Stephen",male,44,26707,26.0000,,Southampton,,,"England / Sacramento, CA"
+2nd class,survived,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,26707,26.0000,,Southampton,10,,"England / Sacramento, CA"
+2nd class,did not survive,"Hood, Mr. Ambrose Jr",male,21,S.O.C. 14879,73.5000,,Southampton,,,"New Forest, England"
+2nd class,survived,"Hosono, Mr. Masabumi",male,42,237798,13.0000,,Southampton,10,,"Tokyo, Japan"
+2nd class,did not survive,"Howard, Mr. Benjamin",male,63,24065,26.0000,,Southampton,,,"Swindon, England"
+2nd class,did not survive,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,24065,26.0000,,Southampton,,,"Swindon, England"
+2nd class,did not survive,"Hunt, Mr. George Henry",male,33,SCO/W 1585,12.2750,,Southampton,,,"Philadelphia, PA"
+2nd class,survived,"Ilett, Miss. Bertha",female,17,SO/C 14885,10.5000,,Southampton,,,Guernsey
+2nd class,did not survive,"Jacobsohn, Mr. Sidney Samuel",male,42,243847,27.0000,,Southampton,,,London
+2nd class,survived,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,243847,27.0000,,Southampton,12,,London
+2nd class,did not survive,"Jarvis, Mr. John Denzil",male,47,237565,15.0000,,Southampton,,,"North Evington, England"
+2nd class,did not survive,"Jefferys, Mr. Clifford Thomas",male,24,C.A. 31029,31.5000,,Southampton,,,"Guernsey / Elizabeth, NJ"
+2nd class,did not survive,"Jefferys, Mr. Ernest Wilfred",male,22,C.A. 31029,31.5000,,Southampton,,,"Guernsey / Elizabeth, NJ"
+2nd class,did not survive,"Jenkin, Mr. Stephen Curnow",male,32,C.A. 33111,10.5000,,Southampton,,,"St Ives, Cornwall / Houghton, MI"
+2nd class,survived,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,SC/AH Basle 541,13.7917,D,Cherbourg,11,,"New York, NY"
+2nd class,did not survive,"Kantor, Mr. Sinai",male,34,244367,26.0000,,Southampton,,283,"Moscow / Bronx, NY"
+2nd class,survived,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,244367,26.0000,,Southampton,12,,"Moscow / Bronx, NY"
+2nd class,did not survive,"Karnes, Mrs. J Frank (Claire Bennett)",female,22,F.C.C. 13534,21.0000,,Southampton,,,"India / Pittsburgh, PA"
+2nd class,survived,"Keane, Miss. Nora A",female,unknown,226593,12.3500,E101,Queenstown,10,,"Harrisburg, PA"
+2nd class,did not survive,"Keane, Mr. Daniel",male,35,233734,12.3500,,Queenstown,,,
+2nd class,survived,"Kelly, Mrs. Florence ""Fannie""",female,45,223596,13.5000,,Southampton,9,,"London / New York, NY"
+2nd class,did not survive,"Kirkland, Rev. Charles Leonard",male,57,219533,12.3500,,Queenstown,,,"Glasgow / Bangor, ME"
+2nd class,did not survive,"Knight, Mr. Robert J",male,unknown,239855,0.0000,,Southampton,,,Belfast
+2nd class,did not survive,"Kvillner, Mr. Johan Henrik Johannesson",male,31,C.A. 18723,10.5000,,Southampton,,165,"Sweden / Arlington, NJ"
+2nd class,did not survive,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,250651,26.0000,,Southampton,,,"Minneapolis, MN"
+2nd class,did not survive,"Lahtinen, Rev. William",male,30,250651,26.0000,,Southampton,,,"Minneapolis, MN"
+2nd class,did not survive,"Lamb, Mr. John Joseph",male,unknown,240261,10.7083,,Queenstown,,,
+2nd class,survived,"Laroche, Miss. Louise",female,1,SC/Paris 2123,41.5792,,Cherbourg,14,,Paris / Haiti
+2nd class,survived,"Laroche, Miss. Simonne Marie Anne Andree",female,3,SC/Paris 2123,41.5792,,Cherbourg,14,,Paris / Haiti
+2nd class,did not survive,"Laroche, Mr. Joseph Philippe Lemercier",male,25,SC/Paris 2123,41.5792,,Cherbourg,,,Paris / Haiti
+2nd class,survived,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,SC/Paris 2123,41.5792,,Cherbourg,14,,Paris / Haiti
+2nd class,survived,"Lehmann, Miss. Bertha",female,17,SC 1748,12.0000,,Cherbourg,12,,"Berne, Switzerland / Central City, IA"
+2nd class,survived,"Leitch, Miss. Jessie Wills",female,unknown,248727,33.0000,,Southampton,11,,"London / Chicago, IL"
+2nd class,survived,"Lemore, Mrs. (Amelia Milley)",female,34,C.A. 34260,10.5000,F33,Southampton,14,,"Chicago, IL"
+2nd class,did not survive,"Levy, Mr. Rene Jacques",male,36,SC/Paris 2163,12.8750,D,Cherbourg,,,"Montreal, PQ"
+2nd class,did not survive,"Leyson, Mr. Robert William Norman",male,24,C.A. 29566,10.5000,,Southampton,,108,
+2nd class,did not survive,"Lingane, Mr. John",male,61,235509,12.3500,,Queenstown,,,
+2nd class,did not survive,"Louch, Mr. Charles Alexander",male,50,SC/AH 3085,26.0000,,Southampton,,121,"Weston-Super-Mare, Somerset"
+2nd class,survived,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,SC/AH 3085,26.0000,,Southampton,,,"Weston-Super-Mare, Somerset"
+2nd class,did not survive,"Mack, Mrs. (Mary)",female,57,S.O./P.P. 3,10.5000,E77,Southampton,,52,"Southampton / New York, NY"
+2nd class,did not survive,"Malachard, Mr. Noel",male,unknown,237735,15.0458,D,Cherbourg,,,Paris
+2nd class,survived,"Mallet, Master. Andre",male,1,S.C./PARIS 2079,37.0042,,Cherbourg,10,,"Paris / Montreal, PQ"
+2nd class,did not survive,"Mallet, Mr. Albert",male,31,S.C./PARIS 2079,37.0042,,Cherbourg,,,"Paris / Montreal, PQ"
+2nd class,survived,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,S.C./PARIS 2079,37.0042,,Cherbourg,10,,"Paris / Montreal, PQ"
+2nd class,did not survive,"Mangiavacchi, Mr. Serafino Emilio",male,unknown,SC/A.3 2861,15.5792,,Cherbourg,,,"New York, NY"
+2nd class,did not survive,"Matthews, Mr. William John",male,30,28228,13.0000,,Southampton,,,"St Austall, Cornwall"
+2nd class,did not survive,"Maybery, Mr. Frank Hubert",male,40,239059,16.0000,,Southampton,,,"Weston-Super-Mare / Moose Jaw, SK"
+2nd class,did not survive,"McCrae, Mr. Arthur Gordon",male,32,237216,13.5000,,Southampton,,209,"Sydney, Australia"
+2nd class,did not survive,"McCrie, Mr. James Matthew",male,30,233478,13.0000,,Southampton,,,"Sarnia, ON"
+2nd class,did not survive,"McKane, Mr. Peter David",male,46,28403,26.0000,,Southampton,,,"Rochester, NY"
+2nd class,survived,"Mellinger, Miss. Madeleine Violet",female,13,250644,19.5000,,Southampton,14,,"England / Bennington, VT"
+2nd class,survived,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,250644,19.5000,,Southampton,14,,"England / Bennington, VT"
+2nd class,survived,"Mellors, Mr. William John",male,19,SW/PP 751,10.5000,,Southampton,B,,"Chelsea, London"
+2nd class,did not survive,"Meyer, Mr. August",male,39,248723,13.0000,,Southampton,,,"Harrow-on-the-Hill, Middlesex"
+2nd class,did not survive,"Milling, Mr. Jacob Christian",male,48,234360,13.0000,,Southampton,,271,"Copenhagen, Denmark"
+2nd class,did not survive,"Mitchell, Mr. Henry Michael",male,70,C.A. 24580,10.5000,,Southampton,,,"Guernsey / Montclair, NJ and/or Toledo, Ohio"
+2nd class,did not survive,"Montvila, Rev. Juozas",male,27,211536,13.0000,,Southampton,,,"Worcester, MA"
+2nd class,did not survive,"Moraweck, Dr. Ernest",male,54,29011,14.0000,,Southampton,,,"Frankfort, KY"
+2nd class,did not survive,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,250655,26.0000,,Southampton,,,
+2nd class,did not survive,"Mudd, Mr. Thomas Charles",male,16,S.O./P.P. 3,10.5000,,Southampton,,,"Halesworth, England"
+2nd class,did not survive,"Myles, Mr. Thomas Francis",male,62,240276,9.6875,,Queenstown,,,"Cambridge, MA"
+2nd class,did not survive,"Nasser, Mr. Nicholas",male,32.5,237736,30.0708,,Cherbourg,,43,"New York, NY"
+2nd class,survived,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,237736,30.0708,,Cherbourg,,,"New York, NY"
+2nd class,survived,"Navratil, Master. Edmond Roger",male,2,230080,26.0000,F2,Southampton,D,,"Nice, France"
+2nd class,survived,"Navratil, Master. Michel M",male,3,230080,26.0000,F2,Southampton,D,,"Nice, France"
+2nd class,did not survive,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,230080,26.0000,F2,Southampton,,15,"Nice, France"
+2nd class,did not survive,"Nesson, Mr. Israel",male,26,244368,13.0000,F2,Southampton,,,"Boston, MA"
+2nd class,did not survive,"Nicholls, Mr. Joseph Charles",male,19,C.A. 33112,36.7500,,Southampton,,101,"Cornwall / Hancock, MI"
+2nd class,did not survive,"Norman, Mr. Robert Douglas",male,28,218629,13.5000,,Southampton,,287,Glasgow
+2nd class,survived,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20,SC/PARIS 2166,13.8625,D38,Cherbourg,7,,"Cologne, Germany"
+2nd class,survived,"Nye, Mrs. (Elizabeth Ramell)",female,29,C.A. 29395,10.5000,F33,Southampton,11,,"Folkstone, Kent / New York, NY"
+2nd class,did not survive,"Otter, Mr. Richard",male,39,28213,13.0000,,Southampton,,,"Middleburg Heights, OH"
+2nd class,survived,"Oxenham, Mr. Percy Thomas",male,22,W./C. 14260,10.5000,,Southampton,13,,"Pondersend, England / New Durham, NJ"
+2nd class,survived,"Padro y Manent, Mr. Julian",male,unknown,SC/PARIS 2146,13.8625,,Cherbourg,9,,"Spain / Havana, Cuba"
+2nd class,did not survive,"Pain, Dr. Alfred",male,23,244278,10.5000,,Southampton,,,"Hamilton, ON"
+2nd class,survived,"Pallas y Castello, Mr. Emilio",male,29,SC/PARIS 2147,13.8583,,Cherbourg,9,,"Spain / Havana, Cuba"
+2nd class,did not survive,"Parker, Mr. Clifford Richard",male,28,SC 14888,10.5000,,Southampton,,,"St Andrews, Guernsey"
+2nd class,did not survive,"Parkes, Mr. Francis ""Frank""",male,unknown,239853,0.0000,,Southampton,,,Belfast
+2nd class,survived,"Parrish, Mrs. (Lutie Davis)",female,50,230433,26.0000,,Southampton,12,,"Woodford County, KY"
+2nd class,did not survive,"Pengelly, Mr. Frederick William",male,19,28665,10.5000,,Southampton,,,"Gunnislake, England / Butte, MT"
+2nd class,did not survive,"Pernot, Mr. Rene",male,unknown,SC/PARIS 2131,15.0500,,Cherbourg,,,
+2nd class,did not survive,"Peruschitz, Rev. Joseph Maria",male,41,237393,13.0000,,Southampton,,,
+2nd class,survived,"Phillips, Miss. Alice Frances Louisa",female,21,S.O./P.P. 2,21.0000,,Southampton,12,,"Ilfracombe, Devon"
+2nd class,survived,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,250655,26.0000,,Southampton,11,,"Worcester, England"
+2nd class,did not survive,"Phillips, Mr. Escott Robert",male,43,S.O./P.P. 2,21.0000,,Southampton,,,"Ilfracombe, Devon"
+2nd class,survived,"Pinsky, Mrs. (Rosa)",female,32,234604,13.0000,,Southampton,9,,Russia
+2nd class,did not survive,"Ponesell, Mr. Martin",male,34,250647,13.0000,,Southampton,,,"Denmark / New York, NY"
+2nd class,survived,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,C.A. 34644,12.7375,,Cherbourg,14,,"Milford, NH"
+2nd class,did not survive,"Pulbaum, Mr. Franz",male,27,SC/PARIS 2168,15.0333,,Cherbourg,,,Paris
+2nd class,survived,"Quick, Miss. Phyllis May",female,2,26360,26.0000,,Southampton,11,,"Plymouth, Devon / Detroit, MI"
+2nd class,survived,"Quick, Miss. Winifred Vera",female,8,26360,26.0000,,Southampton,11,,"Plymouth, Devon / Detroit, MI"
+2nd class,survived,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,26360,26.0000,,Southampton,11,,"Plymouth, Devon / Detroit, MI"
+2nd class,did not survive,"Reeves, Mr. David",male,36,C.A. 17248,10.5000,,Southampton,,,"Brighton, Sussex"
+2nd class,did not survive,"Renouf, Mr. Peter Henry",male,34,31027,21.0000,,Southampton,12,,"Elizabeth, NJ"
+2nd class,survived,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,31027,21.0000,,Southampton,,,"Elizabeth, NJ"
+2nd class,survived,"Reynaldo, Ms. Encarnacion",female,28,230434,13.0000,,Southampton,9,,Spain
+2nd class,did not survive,"Richard, Mr. Emile",male,23,SC/PARIS 2133,15.0458,,Cherbourg,,,"Paris / Montreal, PQ"
+2nd class,survived,"Richards, Master. George Sibley",male,0.83,29106,18.7500,,Southampton,4,,"Cornwall / Akron, OH"
+2nd class,survived,"Richards, Master. William Rowe",male,3,29106,18.7500,,Southampton,4,,"Cornwall / Akron, OH"
+2nd class,survived,"Richards, Mrs. Sidney (Emily Hocking)",female,24,29106,18.7500,,Southampton,4,,"Cornwall / Akron, OH"
+2nd class,survived,"Ridsdale, Miss. Lucy",female,50,W./C. 14258,10.5000,,Southampton,13,,"London, England / Marietta, Ohio and Milwaukee, WI"
+2nd class,did not survive,"Rogers, Mr. Reginald Harry",male,19,28004,10.5000,,Southampton,,,
+2nd class,survived,"Rugg, Miss. Emily",female,21,C.A. 31026,10.5000,,Southampton,12,,"Guernsey / Wilmington, DE"
+2nd class,did not survive,"Schmidt, Mr. August",male,26,248659,13.0000,,Southampton,,,"Newark, NJ"
+2nd class,did not survive,"Sedgwick, Mr. Charles Frederick Waddington",male,25,244361,13.0000,,Southampton,,,Liverpool
+2nd class,did not survive,"Sharp, Mr. Percival James R",male,27,244358,26.0000,,Southampton,,,"Hornsey, England"
+2nd class,survived,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,230433,26.0000,,Southampton,12,,"Deer Lodge, MT"
+2nd class,survived,"Silven, Miss. Lyyli Karoliina",female,18,250652,13.0000,,Southampton,16,,"Finland / Minneapolis, MN"
+2nd class,survived,"Sincock, Miss. Maude",female,20,C.A. 33112,36.7500,,Southampton,11,,"Cornwall / Hancock, MI"
+2nd class,survived,"Sinkkonen, Miss. Anna",female,30,250648,13.0000,,Southampton,10,,"Finland / Washington, DC"
+2nd class,did not survive,"Sjostedt, Mr. Ernst Adolf",male,59,237442,13.5000,,Southampton,,,"Sault St Marie, ON"
+2nd class,survived,"Slayter, Miss. Hilda Mary",female,30,234818,12.3500,,Queenstown,13,,"Halifax, NS"
+2nd class,did not survive,"Slemen, Mr. Richard James",male,35,28206,10.5000,,Southampton,,,Cornwall
+2nd class,survived,"Smith, Miss. Marion Elsie",female,40,31418,13.0000,,Southampton,9,,
+2nd class,did not survive,"Sobey, Mr. Samuel James Hayden",male,25,C.A. 29178,13.0000,,Southampton,,,"Cornwall / Houghton, MI"
+2nd class,did not survive,"Stanton, Mr. Samuel Ward",male,41,237734,15.0458,,Cherbourg,,,"New York, NY"
+2nd class,did not survive,"Stokes, Mr. Philip Joseph",male,25,F.C.C. 13540,10.5000,,Southampton,,81,"Catford, Kent / Detroit, MI"
+2nd class,did not survive,"Swane, Mr. George",male,18.5,248734,13.0000,F,Southampton,,294,
+2nd class,did not survive,"Sweet, Mr. George Frederick",male,14,220845,65.0000,,Southampton,,,"Somerset / Bernardsville, NJ"
+2nd class,survived,"Toomey, Miss. Ellen",female,50,F.C.C. 13531,10.5000,,Southampton,9,,"Indianapolis, IN"
+2nd class,did not survive,"Troupiansky, Mr. Moses Aaron",male,23,233639,13.0000,,Southampton,,,
+2nd class,survived,"Trout, Mrs. William H (Jessie L)",female,28,240929,12.6500,,Southampton,,,"Columbus, OH"
+2nd class,survived,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,34218,10.5000,E101,Southampton,16,,"Bath, England / Massachusetts"
+2nd class,did not survive,"Turpin, Mr. William John Robert",male,29,11668,21.0000,,Southampton,,,"Plymouth, England"
+2nd class,did not survive,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,11668,21.0000,,Southampton,,,"Plymouth, England"
+2nd class,did not survive,"Veal, Mr. James",male,40,28221,13.0000,,Southampton,,,"Barre, Co Washington, VT"
+2nd class,survived,"Walcroft, Miss. Nellie",female,31,F.C.C. 13528,21.0000,,Southampton,14,,"Mamaroneck, NY"
+2nd class,did not survive,"Ware, Mr. John James",male,30,CA 31352,21.0000,,Southampton,,,"Bristol, England / New Britain, CT"
+2nd class,did not survive,"Ware, Mr. William Jeffery",male,23,28666,10.5000,,Southampton,,,
+2nd class,survived,"Ware, Mrs. John James (Florence Louise Long)",female,31,CA 31352,21.0000,,Southampton,10,,"Bristol, England / New Britain, CT"
+2nd class,did not survive,"Watson, Mr. Ennis Hastings",male,unknown,239856,0.0000,,Southampton,,,Belfast
+2nd class,survived,"Watt, Miss. Bertha J",female,12,C.A. 33595,15.7500,,Southampton,9,,"Aberdeen / Portland, OR"
+2nd class,survived,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,C.A. 33595,15.7500,,Southampton,9,,"Aberdeen / Portland, OR"
+2nd class,survived,"Webber, Miss. Susan",female,32.5,27267,13.0000,E101,Southampton,12,,"England / Hartford, CT"
+2nd class,did not survive,"Weisz, Mr. Leopold",male,27,228414,26.0000,,Southampton,,293,"Bromsgrove, England / Montreal, PQ"
+2nd class,survived,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,228414,26.0000,,Southampton,10,,"Bromsgrove, England / Montreal, PQ"
+2nd class,survived,"Wells, Master. Ralph Lester",male,2,29103,23.0000,,Southampton,14,,"Cornwall / Akron, OH"
+2nd class,survived,"Wells, Miss. Joan",female,4,29103,23.0000,,Southampton,14,,"Cornwall / Akron, OH"
+2nd class,survived,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29,29103,23.0000,,Southampton,14,,"Cornwall / Akron, OH"
+2nd class,survived,"West, Miss. Barbara J",female,0.92,C.A. 34651,27.7500,,Southampton,10,,"Bournmouth, England"
+2nd class,survived,"West, Miss. Constance Mirium",female,5,C.A. 34651,27.7500,,Southampton,10,,"Bournmouth, England"
+2nd class,did not survive,"West, Mr. Edwy Arthur",male,36,C.A. 34651,27.7500,,Southampton,,,"Bournmouth, England"
+2nd class,survived,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,C.A. 34651,27.7500,,Southampton,10,,"Bournmouth, England"
+2nd class,did not survive,"Wheadon, Mr. Edward H",male,66,C.A. 24579,10.5000,,Southampton,,,"Guernsey, England / Edgewood, RI"
+2nd class,did not survive,"Wheeler, Mr. Edwin ""Frederick""",male,unknown,SC/PARIS 2159,12.8750,,Southampton,,,
+2nd class,survived,"Wilhelms, Mr. Charles",male,31,244270,13.0000,,Southampton,9,,"London, England"
+2nd class,survived,"Williams, Mr. Charles Eugene",male,unknown,244373,13.0000,,Southampton,14,,"Harrow, England"
+2nd class,survived,"Wright, Miss. Marion",female,26,220844,13.5000,,Southampton,9,,"Yoevil, England / Cottage Grove, OR"
+2nd class,did not survive,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,248747,13.0000,,Southampton,,,Paris
+3rd class,did not survive,"Abbing, Mr. Anthony",male,42,C.A. 5547,7.5500,,Southampton,,,
+3rd class,did not survive,"Abbott, Master. Eugene Joseph",male,13,C.A. 2673,20.2500,,Southampton,,,"East Providence, RI"
+3rd class,did not survive,"Abbott, Mr. Rossmore Edward",male,16,C.A. 2673,20.2500,,Southampton,,190,"East Providence, RI"
+3rd class,survived,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,C.A. 2673,20.2500,,Southampton,A,,"East Providence, RI"
+3rd class,survived,"Abelseth, Miss. Karen Marie",female,16,348125,7.6500,,Southampton,16,,"Norway Los Angeles, CA"
+3rd class,survived,"Abelseth, Mr. Olaus Jorgensen",male,25,348122,7.6500,F G63,Southampton,A,,"Perkins County, SD"
+3rd class,survived,"Abrahamsson, Mr. Abraham August Johannes",male,20,SOTON/O2 3101284,7.9250,,Southampton,15,,"Taalintehdas, Finland Hoboken, NJ"
+3rd class,survived,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,2657,7.2292,,Cherbourg,C,,"Greensburg, PA"
+3rd class,did not survive,"Adahl, Mr. Mauritz Nils Martin",male,30,C 7076,7.2500,,Southampton,,72,"Asarum, Sweden Brooklyn, NY"
+3rd class,did not survive,"Adams, Mr. John",male,26,341826,8.0500,,Southampton,,103,"Bournemouth, England"
+3rd class,did not survive,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,7546,9.4750,,Southampton,,,"Sweden Akeley, MN"
+3rd class,survived,"Aks, Master. Philip Frank",male,0.83,392091,9.3500,,Southampton,11,,"London, England Norfolk, VA"
+3rd class,survived,"Aks, Mrs. Sam (Leah Rosen)",female,18,392091,9.3500,,Southampton,13,,"London, England Norfolk, VA"
+3rd class,survived,"Albimona, Mr. Nassef Cassem",male,26,2699,18.7875,,Cherbourg,15,,"Syria Fredericksburg, VA"
+3rd class,did not survive,"Alexander, Mr. William",male,26,3474,7.8875,,Southampton,,,"England Albion, NY"
+3rd class,did not survive,"Alhomaki, Mr. Ilmari Rudolf",male,20,SOTON/O2 3101287,7.9250,,Southampton,,,"Salo, Finland Astoria, OR"
+3rd class,did not survive,"Ali, Mr. Ahmed",male,24,SOTON/O.Q. 3101311,7.0500,,Southampton,,,
+3rd class,did not survive,"Ali, Mr. William",male,25,SOTON/O.Q. 3101312,7.0500,,Southampton,,79,Argentina
+3rd class,did not survive,"Allen, Mr. William Henry",male,35,373450,8.0500,,Southampton,,,"Lower Clapton, Middlesex or Erdington, Birmingham"
+3rd class,did not survive,"Allum, Mr. Owen George",male,18,2223,8.3000,,Southampton,,259,"Windsor, England New York, NY"
+3rd class,did not survive,"Andersen, Mr. Albert Karvin",male,32,C 4001,22.5250,,Southampton,,260,"Bergen, Norway"
+3rd class,survived,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,350046,7.8542,,Southampton,16,,
+3rd class,did not survive,"Andersson, Master. Sigvard Harald Elias",male,4,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,did not survive,"Andersson, Miss. Ebba Iris Alfrida",female,6,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,did not survive,"Andersson, Miss. Ellis Anna Maria",female,2,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,survived,"Andersson, Miss. Erna Alexandra",female,17,3101281,7.9250,,Southampton,D,,"Ruotsinphyhtaa, Finland New York, NY"
+3rd class,did not survive,"Andersson, Miss. Ida Augusta Margareta",female,38,347091,7.7750,,Southampton,,,"Vadsbro, Sweden Ministee, MI"
+3rd class,did not survive,"Andersson, Miss. Ingeborg Constanzia",female,9,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,did not survive,"Andersson, Miss. Sigrid Elisabeth",female,11,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,did not survive,"Andersson, Mr. Anders Johan",male,39,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,survived,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,350043,7.7958,,Southampton,A,,
+3rd class,did not survive,"Andersson, Mr. Johan Samuel",male,26,347075,7.7750,,Southampton,,,"Hartford, CT"
+3rd class,did not survive,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,347082,31.2750,,Southampton,,,"Sweden Winnipeg, MN"
+3rd class,did not survive,"Andreasson, Mr. Paul Edvin",male,20,347466,7.8542,,Southampton,,,"Sweden Chicago, IL"
+3rd class,did not survive,"Angheloff, Mr. Minko",male,26,349202,7.8958,,Southampton,,,"Bulgaria Chicago, IL"
+3rd class,did not survive,"Arnold-Franchi, Mr. Josef",male,25,349237,17.8000,,Southampton,,,"Altdorf, Switzerland"
+3rd class,did not survive,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,349237,17.8000,,Southampton,,,"Altdorf, Switzerland"
+3rd class,did not survive,"Aronsson, Mr. Ernst Axel Algot",male,24,349911,7.7750,,Southampton,,,"Sweden Joliet, IL"
+3rd class,did not survive,"Asim, Mr. Adola",male,35,SOTON/O.Q. 3101310,7.0500,,Southampton,,,
+3rd class,did not survive,"Asplund, Master. Carl Edgar",male,5,347077,31.3875,,Southampton,,,"Sweden  Worcester, MA"
+3rd class,did not survive,"Asplund, Master. Clarence Gustaf Hugo",male,9,347077,31.3875,,Southampton,,,"Sweden Worcester, MA"
+3rd class,survived,"Asplund, Master. Edvin Rojj Felix",male,3,347077,31.3875,,Southampton,15,,"Sweden Worcester, MA"
+3rd class,did not survive,"Asplund, Master. Filip Oscar",male,13,347077,31.3875,,Southampton,,,"Sweden Worcester, MA"
+3rd class,survived,"Asplund, Miss. Lillian Gertrud",female,5,347077,31.3875,,Southampton,15,,"Sweden Worcester, MA"
+3rd class,did not survive,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,347077,31.3875,,Southampton,,142,"Sweden  Worcester, MA"
+3rd class,survived,"Asplund, Mr. Johan Charles",male,23,350054,7.7958,,Southampton,13,,"Oskarshamn, Sweden Minneapolis, MN"
+3rd class,survived,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,347077,31.3875,,Southampton,15,,"Sweden  Worcester, MA"
+3rd class,survived,"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45,2696,7.2250,,Cherbourg,C,,"Ottawa, ON"
+3rd class,did not survive,"Assaf, Mr. Gerios",male,21,2692,7.2250,,Cherbourg,,,"Ottawa, ON"
+3rd class,did not survive,"Assam, Mr. Ali",male,23,SOTON/O.Q. 3101309,7.0500,,Southampton,,,
+3rd class,did not survive,"Attalah, Miss. Malake",female,17,2627,14.4583,,Cherbourg,,,
+3rd class,did not survive,"Attalah, Mr. Sleiman",male,30,2694,7.2250,,Cherbourg,,,"Ottawa, ON"
+3rd class,did not survive,"Augustsson, Mr. Albert",male,23,347468,7.8542,,Southampton,,,"Krakoryd, Sweden Bloomington, IL"
+3rd class,survived,"Ayoub, Miss. Banoura",female,13,2687,7.2292,,Cherbourg,C,,"Syria Youngstown, OH"
+3rd class,did not survive,"Baccos, Mr. Raffull",male,20,2679,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Backstrom, Mr. Karl Alfred",male,32,3101278,15.8500,,Southampton,D,,"Ruotsinphytaa, Finland New York, NY"
+3rd class,survived,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3101278,15.8500,,Southampton,,,"Ruotsinphytaa, Finland New York, NY"
+3rd class,survived,"Baclini, Miss. Eugenie",female,0.75,2666,19.2583,,Cherbourg,C,,"Syria New York, NY"
+3rd class,survived,"Baclini, Miss. Helene Barbara",female,0.75,2666,19.2583,,Cherbourg,C,,"Syria New York, NY"
+3rd class,survived,"Baclini, Miss. Marie Catherine",female,5,2666,19.2583,,Cherbourg,C,,"Syria New York, NY"
+3rd class,survived,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,2666,19.2583,,Cherbourg,C,,"Syria New York, NY"
+3rd class,survived,"Badman, Miss. Emily Louisa",female,18,A/4 31416,8.0500,,Southampton,C,,"London Skanteales, NY"
+3rd class,did not survive,"Badt, Mr. Mohamed",male,40,2623,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Balkic, Mr. Cerin",male,26,349248,7.8958,,Southampton,,,
+3rd class,survived,"Barah, Mr. Hanna Assi",male,20,2663,7.2292,,Cherbourg,15,,
+3rd class,did not survive,"Barbara, Miss. Saiide",female,18,2691,14.4542,,Cherbourg,,,"Syria Ottawa, ON"
+3rd class,did not survive,"Barbara, Mrs. (Catherine David)",female,45,2691,14.4542,,Cherbourg,,,"Syria Ottawa, ON"
+3rd class,did not survive,"Barry, Miss. Julia",female,27,330844,7.8792,,Queenstown,,,"New York, NY"
+3rd class,did not survive,"Barton, Mr. David John",male,22,324669,8.0500,,Southampton,,,"England New York, NY"
+3rd class,did not survive,"Beavan, Mr. William Thomas",male,19,323951,8.0500,,Southampton,,,England
+3rd class,did not survive,"Bengtsson, Mr. John Viktor",male,26,347068,7.7750,,Southampton,,,"Krakudden, Sweden Moune, IL"
+3rd class,did not survive,"Berglund, Mr. Karl Ivar Sven",male,22,PP 4348,9.3500,,Southampton,,,"Tranvik, Finland New York"
+3rd class,did not survive,"Betros, Master. Seman",male,unknown,2622,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Betros, Mr. Tannous",male,20,2648,4.0125,,Cherbourg,,,Syria
+3rd class,survived,"Bing, Mr. Lee",male,32,1601,56.4958,,Southampton,C,,"Hong Kong New York, NY"
+3rd class,did not survive,"Birkeland, Mr. Hans Martin Monsen",male,21,312992,7.7750,,Southampton,,,"Brennes, Norway New York"
+3rd class,did not survive,"Bjorklund, Mr. Ernst Herbert",male,18,347090,7.7500,,Southampton,,,"Stockholm, Sweden New York"
+3rd class,did not survive,"Bostandyeff, Mr. Guentcho",male,26,349224,7.8958,,Southampton,,,"Bulgaria Chicago, IL"
+3rd class,did not survive,"Boulos, Master. Akar",male,6,2678,15.2458,,Cherbourg,,,"Syria Kent, ON"
+3rd class,did not survive,"Boulos, Miss. Nourelain",female,9,2678,15.2458,,Cherbourg,,,"Syria Kent, ON"
+3rd class,did not survive,"Boulos, Mr. Hanna",male,unknown,2664,7.2250,,Cherbourg,,,Syria
+3rd class,did not survive,"Boulos, Mrs. Joseph (Sultana)",female,unknown,2678,15.2458,,Cherbourg,,,"Syria Kent, ON"
+3rd class,did not survive,"Bourke, Miss. Mary",female,unknown,364848,7.7500,,Queenstown,,,"Ireland Chicago, IL"
+3rd class,did not survive,"Bourke, Mr. John",male,40,364849,15.5000,,Queenstown,,,"Ireland Chicago, IL"
+3rd class,did not survive,"Bourke, Mrs. John (Catherine)",female,32,364849,15.5000,,Queenstown,,,"Ireland Chicago, IL"
+3rd class,did not survive,"Bowen, Mr. David John ""Dai""",male,21,54636,16.1000,,Southampton,,,"Treherbert, Cardiff, Wales"
+3rd class,survived,"Bradley, Miss. Bridget Delia",female,22,334914,7.7250,,Queenstown,13,,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY"
+3rd class,did not survive,"Braf, Miss. Elin Ester Maria",female,20,347471,7.8542,,Southampton,,,"Medeltorp, Sweden Chicago, IL"
+3rd class,did not survive,"Braund, Mr. Lewis Richard",male,29,3460,7.0458,,Southampton,,,"Bridgerule, Devon"
+3rd class,did not survive,"Braund, Mr. Owen Harris",male,22,A/5 21171,7.2500,,Southampton,,,"Bridgerule, Devon"
+3rd class,did not survive,"Brobeck, Mr. Karl Rudolf",male,22,350045,7.7958,,Southampton,,,"Sweden Worcester, MA"
+3rd class,did not survive,"Brocklebank, Mr. William Alfred",male,35,364512,8.0500,,Southampton,,,"Broomfield, Chelmsford, England"
+3rd class,did not survive,"Buckley, Miss. Katherine",female,18.5,329944,7.2833,,Queenstown,,299,"Co Cork, Ireland Roxbury, MA"
+3rd class,survived,"Buckley, Mr. Daniel",male,21,330920,7.8208,,Queenstown,13,,"Kingwilliamstown, Co Cork, Ireland New York, NY"
+3rd class,did not survive,"Burke, Mr. Jeremiah",male,19,365222,6.7500,,Queenstown,,,"Co Cork, Ireland Charlestown, MA"
+3rd class,did not survive,"Burns, Miss. Mary Delia",female,18,330963,7.8792,,Queenstown,,,"Co Sligo, Ireland New York, NY"
+3rd class,did not survive,"Cacic, Miss. Manda",female,21,315087,8.6625,,Southampton,,,
+3rd class,did not survive,"Cacic, Miss. Marija",female,30,315084,8.6625,,Southampton,,,
+3rd class,did not survive,"Cacic, Mr. Jego Grga",male,18,315091,8.6625,,Southampton,,,
+3rd class,did not survive,"Cacic, Mr. Luka",male,38,315089,8.6625,,Southampton,,,Croatia
+3rd class,did not survive,"Calic, Mr. Jovo",male,17,315093,8.6625,,Southampton,,,
+3rd class,did not survive,"Calic, Mr. Petar",male,17,315086,8.6625,,Southampton,,,
+3rd class,did not survive,"Canavan, Miss. Mary",female,21,364846,7.7500,,Queenstown,,,
+3rd class,did not survive,"Canavan, Mr. Patrick",male,21,364858,7.7500,,Queenstown,,,"Ireland Philadelphia, PA"
+3rd class,did not survive,"Cann, Mr. Ernest Charles",male,21,A./5. 2152,8.0500,,Southampton,,,
+3rd class,did not survive,"Caram, Mr. Joseph",male,unknown,2689,14.4583,,Cherbourg,,,"Ottawa, ON"
+3rd class,did not survive,"Caram, Mrs. Joseph (Maria Elias)",female,unknown,2689,14.4583,,Cherbourg,,,"Ottawa, ON"
+3rd class,did not survive,"Carlsson, Mr. August Sigfrid",male,28,350042,7.7958,,Southampton,,,"Dagsas, Sweden Fower, MN"
+3rd class,did not survive,"Carlsson, Mr. Carl Robert",male,24,350409,7.8542,,Southampton,,,"Goteborg, Sweden Huntley, IL"
+3rd class,survived,"Carr, Miss. Helen ""Ellen""",female,16,367231,7.7500,,Queenstown,16,,"Co Longford, Ireland New York, NY"
+3rd class,did not survive,"Carr, Miss. Jeannie",female,37,368364,7.7500,,Queenstown,,,"Co Sligo, Ireland Hartford, CT"
+3rd class,did not survive,"Carver, Mr. Alfred John",male,28,392095,7.2500,,Southampton,,,"St Denys, Southampton, Hants"
+3rd class,did not survive,"Celotti, Mr. Francesco",male,24,343275,8.0500,,Southampton,,,London
+3rd class,did not survive,"Charters, Mr. David",male,21,A/5. 13032,7.7333,,Queenstown,,,"Ireland New York, NY"
+3rd class,survived,"Chip, Mr. Chang",male,32,1601,56.4958,,Southampton,C,,"Hong Kong New York, NY"
+3rd class,did not survive,"Christmann, Mr. Emil",male,29,343276,8.0500,,Southampton,,,
+3rd class,did not survive,"Chronopoulos, Mr. Apostolos",male,26,2680,14.4542,,Cherbourg,,,Greece
+3rd class,did not survive,"Chronopoulos, Mr. Demetrios",male,18,2680,14.4542,,Cherbourg,,,Greece
+3rd class,did not survive,"Coelho, Mr. Domingos Fernandeo",male,20,SOTON/O.Q. 3101307,7.0500,,Southampton,,,Portugal
+3rd class,survived,"Cohen, Mr. Gurshon ""Gus""",male,18,A/5 3540,8.0500,,Southampton,12,,"London Brooklyn, NY"
+3rd class,did not survive,"Colbert, Mr. Patrick",male,24,371109,7.2500,,Queenstown,,,"Co Limerick, Ireland Sherbrooke, PQ"
+3rd class,did not survive,"Coleff, Mr. Peju",male,36,349210,7.4958,,Southampton,,,"Bulgaria Chicago, IL"
+3rd class,did not survive,"Coleff, Mr. Satio",male,24,349209,7.4958,,Southampton,,,
+3rd class,did not survive,"Conlon, Mr. Thomas Henry",male,31,21332,7.7333,,Queenstown,,,"Philadelphia, PA"
+3rd class,did not survive,"Connaghton, Mr. Michael",male,31,335097,7.7500,,Queenstown,,,"Ireland Brooklyn, NY"
+3rd class,survived,"Connolly, Miss. Kate",female,22,370373,7.7500,,Queenstown,13,,Ireland
+3rd class,did not survive,"Connolly, Miss. Kate",female,30,330972,7.6292,,Queenstown,,,Ireland
+3rd class,did not survive,"Connors, Mr. Patrick",male,70.5,370369,7.7500,,Queenstown,,171,
+3rd class,did not survive,"Cook, Mr. Jacob",male,43,A/5 3536,8.0500,,Southampton,,,
+3rd class,did not survive,"Cor, Mr. Bartol",male,35,349230,7.8958,,Southampton,,,Austria
+3rd class,did not survive,"Cor, Mr. Ivan",male,27,349229,7.8958,,Southampton,,,Austria
+3rd class,did not survive,"Cor, Mr. Liudevit",male,19,349231,7.8958,,Southampton,,,Austria
+3rd class,did not survive,"Corn, Mr. Harry",male,30,SOTON/OQ 392090,8.0500,,Southampton,,,London
+3rd class,survived,"Coutts, Master. Eden Leslie ""Neville""",male,9,C.A. 37671,15.9000,,Southampton,2,,"England Brooklyn, NY"
+3rd class,survived,"Coutts, Master. William Loch ""William""",male,3,C.A. 37671,15.9000,,Southampton,2,,"England Brooklyn, NY"
+3rd class,survived,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36,C.A. 37671,15.9000,,Southampton,2,,"England Brooklyn, NY"
+3rd class,did not survive,"Coxon, Mr. Daniel",male,59,364500,7.2500,,Southampton,,,"Merrill, WI"
+3rd class,did not survive,"Crease, Mr. Ernest James",male,19,S.P. 3464,8.1583,,Southampton,,,"Bristol, England Cleveland, OH"
+3rd class,survived,"Cribb, Miss. Laura Alice",female,17,371362,16.1000,,Southampton,12,,"Bournemouth, England Newark, NJ"
+3rd class,did not survive,"Cribb, Mr. John Hatfield",male,44,371362,16.1000,,Southampton,,,"Bournemouth, England Newark, NJ"
+3rd class,did not survive,"Culumovic, Mr. Jeso",male,17,315090,8.6625,,Southampton,,,Austria-Hungary
+3rd class,did not survive,"Daher, Mr. Shedid",male,22.5,2698,7.2250,,Cherbourg,,9,
+3rd class,survived,"Dahl, Mr. Karl Edwart",male,45,7598,8.0500,,Southampton,15,,"Australia Fingal, ND"
+3rd class,did not survive,"Dahlberg, Miss. Gerda Ulrika",female,22,7552,10.5167,,Southampton,,,"Norrlot, Sweden Chicago, IL"
+3rd class,did not survive,"Dakic, Mr. Branko",male,19,349228,10.1708,,Southampton,,,Austria
+3rd class,survived,"Daly, Miss. Margaret Marcella ""Maggie""",female,30,382650,6.9500,,Queenstown,15,,"Co Athlone, Ireland New York, NY"
+3rd class,survived,"Daly, Mr. Eugene Patrick",male,29,382651,7.7500,,Queenstown,13 15 B,,"Co Athlone, Ireland New York, NY"
+3rd class,did not survive,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,347080,14.4000,,Southampton,,,"Stanton, IA"
+3rd class,did not survive,"Danbom, Mr. Ernst Gilbert",male,34,347080,14.4000,,Southampton,,197,"Stanton, IA"
+3rd class,did not survive,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,347080,14.4000,,Southampton,,,"Stanton, IA"
+3rd class,did not survive,"Danoff, Mr. Yoto",male,27,349219,7.8958,,Southampton,,,"Bulgaria Chicago, IL"
+3rd class,did not survive,"Dantcheff, Mr. Ristiu",male,25,349203,7.8958,,Southampton,,,"Bulgaria Chicago, IL"
+3rd class,did not survive,"Davies, Mr. Alfred J",male,24,A/4 48871,24.1500,,Southampton,,,"West Bromwich, England Pontiac, MI"
+3rd class,did not survive,"Davies, Mr. Evan",male,22,SC/A4 23568,8.0500,,Southampton,,,
+3rd class,did not survive,"Davies, Mr. John Samuel",male,21,A/4 48871,24.1500,,Southampton,,,"West Bromwich, England Pontiac, MI"
+3rd class,did not survive,"Davies, Mr. Joseph",male,17,A/4 48873,8.0500,,Southampton,,,"West Bromwich, England Pontiac, MI"
+3rd class,did not survive,"Davison, Mr. Thomas Henry",male,unknown,386525,16.1000,,Southampton,,,"Liverpool, England Bedford, OH"
+3rd class,survived,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,unknown,386525,16.1000,,Southampton,16,,"Liverpool, England Bedford, OH"
+3rd class,survived,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,345572,17.4000,,Southampton,15,,"Tampico, MT"
+3rd class,survived,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,345572,17.4000,,Southampton,13,,"Tampico, MT"
+3rd class,survived,"de Mulder, Mr. Theodore",male,30,345774,9.5000,,Southampton,11,,"Belgium Detroit, MI"
+3rd class,did not survive,"de Pelsmaeker, Mr. Alfons",male,16,345778,9.5000,,Southampton,,,
+3rd class,survived,"Dean, Master. Bertram Vere",male,1,C.A. 2315,20.5750,,Southampton,10,,"Devon, England Wichita, KS"
+3rd class,survived,"Dean, Miss. Elizabeth Gladys ""Millvina""",female,0.17,C.A. 2315,20.5750,,Southampton,10,,"Devon, England Wichita, KS"
+3rd class,did not survive,"Dean, Mr. Bertram Frank",male,26,C.A. 2315,20.5750,,Southampton,,,"Devon, England Wichita, KS"
+3rd class,survived,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,C.A. 2315,20.5750,,Southampton,10,,"Devon, England Wichita, KS"
+3rd class,did not survive,"Delalic, Mr. Redjo",male,25,349250,7.8958,,Southampton,,,
+3rd class,did not survive,"Demetri, Mr. Marinko",male,unknown,349238,7.8958,,Southampton,,,
+3rd class,did not survive,"Denkoff, Mr. Mitto",male,unknown,349225,7.8958,,Southampton,,,"Bulgaria Coon Rapids, IA"
+3rd class,did not survive,"Dennis, Mr. Samuel",male,22,A/5 21172,7.2500,,Southampton,,,
+3rd class,did not survive,"Dennis, Mr. William",male,36,A/5 21175,7.2500,,Southampton,,,
+3rd class,survived,"Devaney, Miss. Margaret Delia",female,19,330958,7.8792,,Queenstown,C,,"Kilmacowen, Co Sligo, Ireland New York, NY"
+3rd class,did not survive,"Dika, Mr. Mirko",male,17,349232,7.8958,,Southampton,,,
+3rd class,did not survive,"Dimic, Mr. Jovan",male,42,315088,8.6625,,Southampton,,,
+3rd class,did not survive,"Dintcheff, Mr. Valtcho",male,43,349226,7.8958,,Southampton,,,
+3rd class,did not survive,"Doharr, Mr. Tannous",male,unknown,2686,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Dooley, Mr. Patrick",male,32,370376,7.7500,,Queenstown,,,"Ireland New York, NY"
+3rd class,survived,"Dorking, Mr. Edward Arthur",male,19,A/5. 10482,8.0500,,Southampton,B,,"England Oglesby, IL"
+3rd class,survived,"Dowdell, Miss. Elizabeth",female,30,364516,12.4750,,Southampton,13,,"Union Hill, NJ"
+3rd class,did not survive,"Doyle, Miss. Elizabeth",female,24,368702,7.7500,,Queenstown,,,"Ireland New York, NY"
+3rd class,survived,"Drapkin, Miss. Jennie",female,23,SOTON/OQ 392083,8.0500,,Southampton,,,"London New York, NY"
+3rd class,did not survive,"Drazenoic, Mr. Jozef",male,33,349241,7.8958,,Cherbourg,,51,"Austria Niagara Falls, NY"
+3rd class,did not survive,"Duane, Mr. Frank",male,65,336439,7.7500,,Queenstown,,,
+3rd class,survived,"Duquemin, Mr. Joseph",male,24,S.O./P.P. 752,7.5500,,Southampton,D,,"England Albion, NY"
+3rd class,did not survive,"Dyker, Mr. Adolf Fredrik",male,23,347072,13.9000,,Southampton,,,"West Haven, CT"
+3rd class,survived,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,347072,13.9000,,Southampton,16,,"West Haven, CT"
+3rd class,did not survive,"Edvardsson, Mr. Gustaf Hjalmar",male,18,349912,7.7750,,Southampton,,,"Tofta, Sweden Joliet, IL"
+3rd class,did not survive,"Eklund, Mr. Hans Linus",male,16,347074,7.7750,,Southampton,,,"Karberg, Sweden Jerome Junction, AZ"
+3rd class,did not survive,"Ekstrom, Mr. Johan",male,45,347061,6.9750,,Southampton,,,"Effington Rut, SD"
+3rd class,did not survive,"Elias, Mr. Dibo",male,unknown,2674,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Elias, Mr. Joseph",male,39,2675,7.2292,,Cherbourg,,,"Syria Ottawa, ON"
+3rd class,did not survive,"Elias, Mr. Joseph Jr",male,17,2690,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Elias, Mr. Tannous",male,15,2695,7.2292,,Cherbourg,,,Syria
+3rd class,did not survive,"Elsbury, Mr. William James",male,47,A/5 3902,7.2500,,Southampton,,,"Illinois, USA"
+3rd class,survived,"Emanuel, Miss. Virginia Ethel",female,5,364516,12.4750,,Southampton,13,,"New York, NY"
+3rd class,did not survive,"Emir, Mr. Farred Chehab",male,unknown,2631,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Everett, Mr. Thomas James",male,40.5,C.A. 6212,15.1000,,Southampton,,187,
+3rd class,did not survive,"Farrell, Mr. James",male,40.5,367232,7.7500,,Queenstown,,68,"Aughnacliff, Co Longford, Ireland New York, NY"
+3rd class,survived,"Finoli, Mr. Luigi",male,unknown,SOTON/O.Q. 3101308,7.0500,,Southampton,15,,"Italy Philadelphia, PA"
+3rd class,did not survive,"Fischer, Mr. Eberhard Thelander",male,18,350036,7.7958,,Southampton,,,
+3rd class,did not survive,"Fleming, Miss. Honora",female,unknown,364859,7.7500,,Queenstown,,,
+3rd class,did not survive,"Flynn, Mr. James",male,unknown,364851,7.7500,,Queenstown,,,
+3rd class,did not survive,"Flynn, Mr. John",male,unknown,368323,6.9500,,Queenstown,,,
+3rd class,did not survive,"Foley, Mr. Joseph",male,26,330910,7.8792,,Queenstown,,,"Ireland Chicago, IL"
+3rd class,did not survive,"Foley, Mr. William",male,unknown,365235,7.7500,,Queenstown,,,Ireland
+3rd class,survived,"Foo, Mr. Choong",male,unknown,1601,56.4958,,Southampton,13,,"Hong Kong New York, NY"
+3rd class,did not survive,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,W./C. 6608,34.3750,,Southampton,,,"Rotherfield, Sussex, England Essex Co, MA"
+3rd class,did not survive,"Ford, Miss. Robina Maggie ""Ruby""",female,9,W./C. 6608,34.3750,,Southampton,,,"Rotherfield, Sussex, England Essex Co, MA"
+3rd class,did not survive,"Ford, Mr. Arthur",male,unknown,A/5 1478,8.0500,,Southampton,,,"Bridgwater, Somerset, England"
+3rd class,did not survive,"Ford, Mr. Edward Watson",male,18,W./C. 6608,34.3750,,Southampton,,,"Rotherfield, Sussex, England Essex Co, MA"
+3rd class,did not survive,"Ford, Mr. William Neal",male,16,W./C. 6608,34.3750,,Southampton,,,"Rotherfield, Sussex, England Essex Co, MA"
+3rd class,did not survive,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,W./C. 6608,34.3750,,Southampton,,,"Rotherfield, Sussex, England Essex Co, MA"
+3rd class,did not survive,"Fox, Mr. Patrick",male,unknown,368573,7.7500,,Queenstown,,,"Ireland New York, NY"
+3rd class,did not survive,"Franklin, Mr. Charles (Charles Fardon)",male,unknown,SOTON/O.Q. 3101314,7.2500,,Southampton,,,
+3rd class,did not survive,"Gallagher, Mr. Martin",male,25,36864,7.7417,,Queenstown,,,"New York, NY"
+3rd class,did not survive,"Garfirth, Mr. John",male,unknown,358585,14.5000,,Southampton,,,
+3rd class,did not survive,"Gheorgheff, Mr. Stanio",male,unknown,349254,7.8958,,Cherbourg,,,
+3rd class,did not survive,"Gilinski, Mr. Eliezer",male,22,14973,8.0500,,Southampton,,47,
+3rd class,survived,"Gilnagh, Miss. Katherine ""Katie""",female,16,35851,7.7333,,Queenstown,16,,"Co Longford, Ireland New York, NY"
+3rd class,survived,"Glynn, Miss. Mary Agatha",female,unknown,335677,7.7500,,Queenstown,13,,"Co Clare, Ireland Washington, DC"
+3rd class,survived,"Goldsmith, Master. Frank John William ""Frankie""",male,9,363291,20.5250,,Southampton,C D,,"Strood, Kent, England Detroit, MI"
+3rd class,did not survive,"Goldsmith, Mr. Frank John",male,33,363291,20.5250,,Southampton,,,"Strood, Kent, England Detroit, MI"
+3rd class,did not survive,"Goldsmith, Mr. Nathan",male,41,SOTON/O.Q. 3101263,7.8500,,Southampton,,,"Philadelphia, PA"
+3rd class,survived,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,363291,20.5250,,Southampton,C D,,"Strood, Kent, England Detroit, MI"
+3rd class,did not survive,"Goncalves, Mr. Manuel Estanslas",male,38,SOTON/O.Q. 3101306,7.0500,,Southampton,,,Portugal
+3rd class,did not survive,"Goodwin, Master. Harold Victor",male,9,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Master. Sidney Leonard",male,1,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Master. William Frederick",male,11,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Miss. Jessie Allis",female,10,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Miss. Lillian Amy",female,16,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Mr. Charles Edward",male,14,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Mr. Charles Frederick",male,40,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,CA 2144,46.9000,,Southampton,,,"Wiltshire, England Niagara Falls, NY"
+3rd class,did not survive,"Green, Mr. George Henry",male,51,21440,8.0500,,Southampton,,,"Dorking, Surrey, England"
+3rd class,did not survive,"Gronnestad, Mr. Daniel Danielsen",male,32,8471,8.3625,,Southampton,,,"Foresvik, Norway Portland, ND"
+3rd class,did not survive,"Guest, Mr. Robert",male,unknown,376563,8.0500,,Southampton,,,
+3rd class,did not survive,"Gustafsson, Mr. Alfred Ossian",male,20,7534,9.8458,,Southampton,,,"Waukegan, Chicago, IL"
+3rd class,did not survive,"Gustafsson, Mr. Anders Vilhelm",male,37,3101276,7.9250,,Southampton,,98,"Ruotsinphytaa, Finland New York, NY"
+3rd class,did not survive,"Gustafsson, Mr. Johan Birger",male,28,3101277,7.9250,,Southampton,,,"Ruotsinphytaa, Finland New York, NY"
+3rd class,did not survive,"Gustafsson, Mr. Karl Gideon",male,19,347069,7.7750,,Southampton,,,"Myren, Sweden New York, NY"
+3rd class,did not survive,"Haas, Miss. Aloisia",female,24,349236,8.8500,,Southampton,,,
+3rd class,did not survive,"Hagardon, Miss. Kate",female,17,AQ/3. 30631,7.7333,,Queenstown,,,
+3rd class,did not survive,"Hagland, Mr. Ingvald Olai Olsen",male,unknown,65303,19.9667,,Southampton,,,
+3rd class,did not survive,"Hagland, Mr. Konrad Mathias Reiersen",male,unknown,65304,19.9667,,Southampton,,,
+3rd class,did not survive,"Hakkarainen, Mr. Pekka Pietari",male,28,STON/O2. 3101279,15.8500,,Southampton,,,
+3rd class,survived,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,STON/O2. 3101279,15.8500,,Southampton,15,,
+3rd class,did not survive,"Hampe, Mr. Leon",male,20,345769,9.5000,,Southampton,,,
+3rd class,did not survive,"Hanna, Mr. Mansour",male,23.5,2693,7.2292,,Cherbourg,,188,
+3rd class,did not survive,"Hansen, Mr. Claus Peter",male,41,350026,14.1083,,Southampton,,,
+3rd class,did not survive,"Hansen, Mr. Henrik Juul",male,26,350025,7.8542,,Southampton,,,
+3rd class,did not survive,"Hansen, Mr. Henry Damsgaard",male,21,350029,7.8542,,Southampton,,69,
+3rd class,survived,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,350026,14.1083,,Southampton,11,,
+3rd class,did not survive,"Harknett, Miss. Alice Phoebe",female,unknown,W./C. 6609,7.5500,,Southampton,,,
+3rd class,did not survive,"Harmer, Mr. Abraham (David Lishin)",male,25,374887,7.2500,,Southampton,B,,
+3rd class,did not survive,"Hart, Mr. Henry",male,unknown,394140,6.8583,,Queenstown,,,
+3rd class,did not survive,"Hassan, Mr. Houssein G N",male,11,2699,18.7875,,Cherbourg,,,
+3rd class,survived,"Healy, Miss. Hanora ""Nora""",female,unknown,370375,7.7500,,Queenstown,16,,
+3rd class,survived,"Hedman, Mr. Oskar Arvid",male,27,347089,6.9750,,Southampton,15,,
+3rd class,survived,"Hee, Mr. Ling",male,unknown,1601,56.4958,,Southampton,C,,
+3rd class,did not survive,"Hegarty, Miss. Hanora ""Nora""",female,18,365226,6.7500,,Queenstown,,,
+3rd class,survived,"Heikkinen, Miss. Laina",female,26,STON/O2. 3101282,7.9250,,Southampton,,,
+3rd class,did not survive,"Heininen, Miss. Wendla Maria",female,23,STON/O2. 3101290,7.9250,,Southampton,,,
+3rd class,survived,"Hellstrom, Miss. Hilda Maria",female,22,7548,8.9625,,Southampton,C,,
+3rd class,did not survive,"Hendekovic, Mr. Ignjac",male,28,349243,7.8958,,Southampton,,306,
+3rd class,did not survive,"Henriksson, Miss. Jenny Lovisa",female,28,347086,7.7750,,Southampton,,,
+3rd class,did not survive,"Henry, Miss. Delia",female,unknown,382649,7.7500,,Queenstown,,,
+3rd class,survived,"Hirvonen, Miss. Hildur E",female,2,3101298,12.2875,,Southampton,15,,
+3rd class,survived,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,3101298,12.2875,,Southampton,15,,
+3rd class,did not survive,"Holm, Mr. John Fredrik Alexander",male,43,C 7075,6.4500,,Southampton,,,
+3rd class,did not survive,"Holthen, Mr. Johan Martin",male,28,C 4001,22.5250,,Southampton,,,
+3rd class,survived,"Honkanen, Miss. Eliina",female,27,STON/O2. 3101283,7.9250,,Southampton,,,
+3rd class,did not survive,"Horgan, Mr. John",male,unknown,370377,7.7500,,Queenstown,,,
+3rd class,survived,"Howard, Miss. May Elizabeth",female,unknown,A. 2. 39186,8.0500,,Southampton,C,,
+3rd class,did not survive,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,348121,7.6500,F G63,Southampton,,120,
+3rd class,survived,"Hyman, Mr. Abraham",male,unknown,3470,7.8875,,Southampton,C,,
+3rd class,did not survive,"Ibrahim Shawah, Mr. Yousseff",male,30,2685,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Ilieff, Mr. Ylio",male,unknown,349220,7.8958,,Southampton,,,
+3rd class,did not survive,"Ilmakangas, Miss. Ida Livija",female,27,STON/O2. 3101270,7.9250,,Southampton,,,
+3rd class,did not survive,"Ilmakangas, Miss. Pieta Sofia",female,25,STON/O2. 3101271,7.9250,,Southampton,,,
+3rd class,did not survive,"Ivanoff, Mr. Kanio",male,unknown,349201,7.8958,,Southampton,,,
+3rd class,survived,"Jalsevac, Mr. Ivan",male,29,349240,7.8958,,Cherbourg,15,,
+3rd class,survived,"Jansson, Mr. Carl Olof",male,21,350034,7.7958,,Southampton,A,,
+3rd class,did not survive,"Jardin, Mr. Jose Neto",male,unknown,SOTON/O.Q. 3101305,7.0500,,Southampton,,,
+3rd class,did not survive,"Jensen, Mr. Hans Peder",male,20,350050,7.8542,,Southampton,,,
+3rd class,did not survive,"Jensen, Mr. Niels Peder",male,48,350047,7.8542,,Southampton,,,
+3rd class,did not survive,"Jensen, Mr. Svend Lauritz",male,17,350048,7.0542,,Southampton,,,
+3rd class,survived,"Jermyn, Miss. Annie",female,unknown,14313,7.7500,,Queenstown,D,,
+3rd class,survived,"Johannesen-Bratthammer, Mr. Bernt",male,unknown,65306,8.1125,,Southampton,13,,
+3rd class,did not survive,"Johanson, Mr. Jakob Alfred",male,34,3101264,6.4958,,Southampton,,143,
+3rd class,survived,"Johansson Palmquist, Mr. Oskar Leander",male,26,347070,7.7750,,Southampton,15,,
+3rd class,did not survive,"Johansson, Mr. Erik",male,22,350052,7.7958,,Southampton,,156,
+3rd class,did not survive,"Johansson, Mr. Gustaf Joel",male,33,7540,8.6542,,Southampton,,285,
+3rd class,did not survive,"Johansson, Mr. Karl Johan",male,31,347063,7.7750,,Southampton,,,
+3rd class,did not survive,"Johansson, Mr. Nils",male,29,347467,7.8542,,Southampton,,,
+3rd class,survived,"Johnson, Master. Harold Theodor",male,4,347742,11.1333,,Southampton,15,,
+3rd class,survived,"Johnson, Miss. Eleanor Ileen",female,1,347742,11.1333,,Southampton,15,,
+3rd class,did not survive,"Johnson, Mr. Alfred",male,49,LINE,0.0000,,Southampton,,,
+3rd class,did not survive,"Johnson, Mr. Malkolm Joackim",male,33,347062,7.7750,,Southampton,,37,
+3rd class,did not survive,"Johnson, Mr. William Cahoone Jr",male,19,LINE,0.0000,,Southampton,,,
+3rd class,survived,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,347742,11.1333,,Southampton,15,,
+3rd class,did not survive,"Johnston, Master. William Arthur ""Willie""",male,unknown,W./C. 6607,23.4500,,Southampton,,,
+3rd class,did not survive,"Johnston, Miss. Catherine Helen ""Carrie""",female,unknown,W./C. 6607,23.4500,,Southampton,,,
+3rd class,did not survive,"Johnston, Mr. Andrew G",male,unknown,W./C. 6607,23.4500,,Southampton,,,
+3rd class,did not survive,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,unknown,W./C. 6607,23.4500,,Southampton,,,
+3rd class,did not survive,"Jonkoff, Mr. Lalio",male,23,349204,7.8958,,Southampton,,,
+3rd class,survived,"Jonsson, Mr. Carl",male,32,350417,7.8542,,Southampton,15,,
+3rd class,did not survive,"Jonsson, Mr. Nils Hilding",male,27,350408,7.8542,,Southampton,,,
+3rd class,did not survive,"Jussila, Miss. Katriina",female,20,4136,9.8250,,Southampton,,,
+3rd class,did not survive,"Jussila, Miss. Mari Aina",female,21,4137,9.8250,,Southampton,,,
+3rd class,survived,"Jussila, Mr. Eiriik",male,32,STON/O 2. 3101286,7.9250,,Southampton,15,,
+3rd class,did not survive,"Kallio, Mr. Nikolai Erland",male,17,STON/O 2. 3101274,7.1250,,Southampton,,,
+3rd class,did not survive,"Kalvik, Mr. Johannes Halvorsen",male,21,8475,8.4333,,Southampton,,,
+3rd class,did not survive,"Karaic, Mr. Milan",male,30,349246,7.8958,,Southampton,,,
+3rd class,survived,"Karlsson, Mr. Einar Gervasius",male,21,350053,7.7958,,Southampton,13,,
+3rd class,did not survive,"Karlsson, Mr. Julius Konrad Eugen",male,33,347465,7.8542,,Southampton,,,
+3rd class,did not survive,"Karlsson, Mr. Nils August",male,22,350060,7.5208,,Southampton,,,
+3rd class,survived,"Karun, Miss. Manca",female,4,349256,13.4167,,Cherbourg,15,,
+3rd class,survived,"Karun, Mr. Franz",male,39,349256,13.4167,,Cherbourg,15,,
+3rd class,did not survive,"Kassem, Mr. Fared",male,unknown,2700,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,18.5,2682,7.2292,,Cherbourg,,58,
+3rd class,did not survive,"Keane, Mr. Andrew ""Andy""",male,unknown,12460,7.7500,,Queenstown,,,
+3rd class,did not survive,"Keefe, Mr. Arthur",male,unknown,323592,7.2500,,Southampton,A,,
+3rd class,survived,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,unknown,9234,7.7500,,Queenstown,16,,
+3rd class,survived,"Kelly, Miss. Mary",female,unknown,14312,7.7500,,Queenstown,D,,
+3rd class,did not survive,"Kelly, Mr. James",male,34.5,330911,7.8292,,Queenstown,,70,
+3rd class,did not survive,"Kelly, Mr. James",male,44,363592,8.0500,,Southampton,,,
+3rd class,survived,"Kennedy, Mr. John",male,unknown,368783,7.7500,,Queenstown,,,
+3rd class,did not survive,"Khalil, Mr. Betros",male,unknown,2660,14.4542,,Cherbourg,,,
+3rd class,did not survive,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,unknown,2660,14.4542,,Cherbourg,,,
+3rd class,did not survive,"Kiernan, Mr. John",male,unknown,367227,7.7500,,Queenstown,,,
+3rd class,did not survive,"Kiernan, Mr. Philip",male,unknown,367229,7.7500,,Queenstown,,,
+3rd class,did not survive,"Kilgannon, Mr. Thomas J",male,unknown,36865,7.7375,,Queenstown,,,
+3rd class,did not survive,"Kink, Miss. Maria",female,22,315152,8.6625,,Southampton,,,
+3rd class,did not survive,"Kink, Mr. Vincenz",male,26,315151,8.6625,,Southampton,,,
+3rd class,survived,"Kink-Heilmann, Miss. Luise Gretchen",female,4,315153,22.0250,,Southampton,2,,
+3rd class,survived,"Kink-Heilmann, Mr. Anton",male,29,315153,22.0250,,Southampton,2,,
+3rd class,survived,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,315153,22.0250,,Southampton,2,,
+3rd class,did not survive,"Klasen, Miss. Gertrud Emilia",female,1,350405,12.1833,,Southampton,,,
+3rd class,did not survive,"Klasen, Mr. Klas Albin",male,18,350404,7.8542,,Southampton,,,
+3rd class,did not survive,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,350405,12.1833,,Southampton,,,
+3rd class,did not survive,"Kraeff, Mr. Theodor",male,unknown,349253,7.8958,,Cherbourg,,,
+3rd class,survived,"Krekorian, Mr. Neshan",male,25,2654,7.2292,F E57,Cherbourg,10,,
+3rd class,did not survive,"Lahoud, Mr. Sarkis",male,unknown,2624,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Laitinen, Miss. Kristina Sofia",female,37,4135,9.5875,,Southampton,,,
+3rd class,did not survive,"Laleff, Mr. Kristo",male,unknown,349217,7.8958,,Southampton,,,
+3rd class,survived,"Lam, Mr. Ali",male,unknown,1601,56.4958,,Southampton,C,,
+3rd class,did not survive,"Lam, Mr. Len",male,unknown,1601,56.4958,,Southampton,,,
+3rd class,survived,"Landergren, Miss. Aurora Adelia",female,22,C 7077,7.2500,,Southampton,13,,
+3rd class,did not survive,"Lane, Mr. Patrick",male,unknown,7935,7.7500,,Queenstown,,,
+3rd class,survived,"Lang, Mr. Fang",male,26,1601,56.4958,,Southampton,14,,
+3rd class,did not survive,"Larsson, Mr. August Viktor",male,29,7545,9.4833,,Southampton,,,
+3rd class,did not survive,"Larsson, Mr. Bengt Edvin",male,29,347067,7.7750,,Southampton,,,
+3rd class,did not survive,"Larsson-Rondberg, Mr. Edvard A",male,22,347065,7.7750,,Southampton,,,
+3rd class,survived,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,2620,7.2250,,Cherbourg,6,,
+3rd class,did not survive,"Lefebre, Master. Henry Forbes",male,unknown,4133,25.4667,,Southampton,,,
+3rd class,did not survive,"Lefebre, Miss. Ida",female,unknown,4133,25.4667,,Southampton,,,
+3rd class,did not survive,"Lefebre, Miss. Jeannie",female,unknown,4133,25.4667,,Southampton,,,
+3rd class,did not survive,"Lefebre, Miss. Mathilde",female,unknown,4133,25.4667,,Southampton,,,
+3rd class,did not survive,"Lefebre, Mrs. Frank (Frances)",female,unknown,4133,25.4667,,Southampton,,,
+3rd class,did not survive,"Leinonen, Mr. Antti Gustaf",male,32,STON/O 2. 3101292,7.9250,,Southampton,,,
+3rd class,did not survive,"Lemberopolous, Mr. Peter L",male,34.5,2683,6.4375,,Cherbourg,,196,
+3rd class,did not survive,"Lennon, Miss. Mary",female,unknown,370371,15.5000,,Queenstown,,,
+3rd class,did not survive,"Lennon, Mr. Denis",male,unknown,370371,15.5000,,Queenstown,,,
+3rd class,did not survive,"Leonard, Mr. Lionel",male,36,LINE,0.0000,,Southampton,,,
+3rd class,did not survive,"Lester, Mr. James",male,39,A/4 48871,24.1500,,Southampton,,,
+3rd class,did not survive,"Lievens, Mr. Rene Aime",male,24,345781,9.5000,,Southampton,,,
+3rd class,did not survive,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,347071,7.7750,,Southampton,,,
+3rd class,did not survive,"Lindblom, Miss. Augusta Charlotta",female,45,347073,7.7500,,Southampton,,,
+3rd class,did not survive,"Lindell, Mr. Edvard Bengtsson",male,36,349910,15.5500,,Southampton,A,,
+3rd class,did not survive,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,349910,15.5500,,Southampton,A,,
+3rd class,survived,"Lindqvist, Mr. Eino William",male,20,STON/O 2. 3101285,7.9250,,Southampton,15,,
+3rd class,did not survive,"Linehan, Mr. Michael",male,unknown,330971,7.8792,,Queenstown,,,
+3rd class,did not survive,"Ling, Mr. Lee",male,28,1601,56.4958,,Southampton,,,
+3rd class,did not survive,"Lithman, Mr. Simon",male,unknown,S.O./P.P. 251,7.5500,,Southampton,,,
+3rd class,did not survive,"Lobb, Mr. William Arthur",male,30,A/5. 3336,16.1000,,Southampton,,,
+3rd class,did not survive,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,A/5. 3336,16.1000,,Southampton,,,
+3rd class,did not survive,"Lockyer, Mr. Edward",male,unknown,1222,7.8792,,Southampton,,153,
+3rd class,did not survive,"Lovell, Mr. John Hall (""Henry"")",male,20.5,A/5 21173,7.2500,,Southampton,,,
+3rd class,survived,"Lulic, Mr. Nikola",male,27,315098,8.6625,,Southampton,15,,
+3rd class,did not survive,"Lundahl, Mr. Johan Svensson",male,51,347743,7.0542,,Southampton,,,
+3rd class,survived,"Lundin, Miss. Olga Elida",female,23,347469,7.8542,,Southampton,10,,
+3rd class,survived,"Lundstrom, Mr. Thure Edvin",male,32,350403,7.5792,,Southampton,15,,
+3rd class,did not survive,"Lyntakoff, Mr. Stanko",male,unknown,349235,7.8958,,Southampton,,,
+3rd class,did not survive,"MacKay, Mr. George William",male,unknown,C.A. 42795,7.5500,,Southampton,,,
+3rd class,survived,"Madigan, Miss. Margaret ""Maggie""",female,unknown,370370,7.7500,,Queenstown,15,,
+3rd class,survived,"Madsen, Mr. Fridtjof Arne",male,24,C 17369,7.1417,,Southampton,13,,
+3rd class,did not survive,"Maenpaa, Mr. Matti Alexanteri",male,22,STON/O 2. 3101275,7.1250,,Southampton,,,
+3rd class,did not survive,"Mahon, Miss. Bridget Delia",female,unknown,330924,7.8792,,Queenstown,,,
+3rd class,did not survive,"Mahon, Mr. John",male,unknown,AQ/4 3130,7.7500,,Queenstown,,,
+3rd class,did not survive,"Maisner, Mr. Simon",male,unknown,A/S 2816,8.0500,,Southampton,,,
+3rd class,did not survive,"Makinen, Mr. Kalle Edvard",male,29,STON/O 2. 3101268,7.9250,,Southampton,,,
+3rd class,survived,"Mamee, Mr. Hanna",male,unknown,2677,7.2292,,Cherbourg,15,,
+3rd class,did not survive,"Mangan, Miss. Mary",female,30.5,364850,7.7500,,Queenstown,,61,
+3rd class,survived,"Mannion, Miss. Margareth",female,unknown,36866,7.7375,,Queenstown,16,,
+3rd class,did not survive,"Mardirosian, Mr. Sarkis",male,unknown,2655,7.2292,F E46,Cherbourg,,,
+3rd class,did not survive,"Markoff, Mr. Marin",male,35,349213,7.8958,,Cherbourg,,,
+3rd class,did not survive,"Markun, Mr. Johann",male,33,349257,7.8958,,Southampton,,,
+3rd class,survived,"Masselmani, Mrs. Fatima",female,unknown,2649,7.2250,,Cherbourg,C,,
+3rd class,did not survive,"Matinoff, Mr. Nicola",male,unknown,349255,7.8958,,Cherbourg,,,
+3rd class,survived,"McCarthy, Miss. Catherine ""Katie""",female,unknown,383123,7.7500,,Queenstown,15 16,,
+3rd class,survived,"McCormack, Mr. Thomas Joseph",male,unknown,367228,7.7500,,Queenstown,,,
+3rd class,survived,"McCoy, Miss. Agnes",female,unknown,367226,23.2500,,Queenstown,16,,
+3rd class,survived,"McCoy, Miss. Alicia",female,unknown,367226,23.2500,,Queenstown,16,,
+3rd class,survived,"McCoy, Mr. Bernard",male,unknown,367226,23.2500,,Queenstown,16,,
+3rd class,survived,"McDermott, Miss. Brigdet Delia",female,unknown,330932,7.7875,,Queenstown,13,,
+3rd class,did not survive,"McEvoy, Mr. Michael",male,unknown,36568,15.5000,,Queenstown,,,
+3rd class,survived,"McGovern, Miss. Mary",female,unknown,330931,7.8792,,Queenstown,13,,
+3rd class,survived,"McGowan, Miss. Anna ""Annie""",female,15,330923,8.0292,,Queenstown,,,
+3rd class,did not survive,"McGowan, Miss. Katherine",female,35,9232,7.7500,,Queenstown,,,
+3rd class,did not survive,"McMahon, Mr. Martin",male,unknown,370372,7.7500,,Queenstown,,,
+3rd class,did not survive,"McNamee, Mr. Neal",male,24,376566,16.1000,,Southampton,,,
+3rd class,did not survive,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,376566,16.1000,,Southampton,,53,
+3rd class,did not survive,"McNeill, Miss. Bridget",female,unknown,370368,7.7500,,Queenstown,,,
+3rd class,did not survive,"Meanwell, Miss. (Marion Ogden)",female,unknown,SOTON/O.Q. 392087,8.0500,,Southampton,,,
+3rd class,did not survive,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,unknown,343095,8.0500,,Southampton,,,
+3rd class,did not survive,"Meo, Mr. Alfonzo",male,55.5,A.5. 11206,8.0500,,Southampton,,201,
+3rd class,did not survive,"Mernagh, Mr. Robert",male,unknown,368703,7.7500,,Queenstown,,,
+3rd class,survived,"Midtsjo, Mr. Karl Albert",male,21,345501,7.7750,,Southampton,15,,
+3rd class,did not survive,"Miles, Mr. Frank",male,unknown,359306,8.0500,,Southampton,,,
+3rd class,did not survive,"Mineff, Mr. Ivan",male,24,349233,7.8958,,Southampton,,,
+3rd class,did not survive,"Minkoff, Mr. Lazar",male,21,349211,7.8958,,Southampton,,,
+3rd class,did not survive,"Mionoff, Mr. Stoytcho",male,28,349207,7.8958,,Southampton,,,
+3rd class,did not survive,"Mitkoff, Mr. Mito",male,unknown,349221,7.8958,,Southampton,,,
+3rd class,survived,"Mockler, Miss. Helen Mary ""Ellie""",female,unknown,330980,7.8792,,Queenstown,16,,
+3rd class,did not survive,"Moen, Mr. Sigurd Hansen",male,25,348123,7.6500,F G73,Southampton,,309,
+3rd class,survived,"Moor, Master. Meier",male,6,392096,12.4750,E121,Southampton,14,,
+3rd class,survived,"Moor, Mrs. (Beila)",female,27,392096,12.4750,E121,Southampton,14,,
+3rd class,did not survive,"Moore, Mr. Leonard Charles",male,unknown,A4. 54510,8.0500,,Southampton,,,
+3rd class,survived,"Moran, Miss. Bertha",female,unknown,371110,24.1500,,Queenstown,16,,
+3rd class,did not survive,"Moran, Mr. Daniel J",male,unknown,371110,24.1500,,Queenstown,,,
+3rd class,did not survive,"Moran, Mr. James",male,unknown,330877,8.4583,,Queenstown,,,
+3rd class,did not survive,"Morley, Mr. William",male,34,364506,8.0500,,Southampton,,,
+3rd class,did not survive,"Morrow, Mr. Thomas Rowan",male,unknown,372622,7.7500,,Queenstown,,,
+3rd class,survived,"Moss, Mr. Albert Johan",male,unknown,312991,7.7750,,Southampton,B,,
+3rd class,survived,"Moubarek, Master. Gerios",male,unknown,2661,15.2458,,Cherbourg,C,,
+3rd class,survived,"Moubarek, Master. Halim Gonios (""William George"")",male,unknown,2661,15.2458,,Cherbourg,C,,
+3rd class,survived,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,unknown,2661,15.2458,,Cherbourg,C,,
+3rd class,survived,"Moussa, Mrs. (Mantoura Boulos)",female,unknown,2626,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Moutal, Mr. Rahamin Haim",male,unknown,374746,8.0500,,Southampton,,,
+3rd class,survived,"Mullens, Miss. Katherine ""Katie""",female,unknown,35852,7.7333,,Queenstown,16,,
+3rd class,survived,"Mulvihill, Miss. Bertha E",female,24,382653,7.7500,,Queenstown,15,,
+3rd class,did not survive,"Murdlin, Mr. Joseph",male,unknown,A./5. 3235,8.0500,,Southampton,,,
+3rd class,survived,"Murphy, Miss. Katherine ""Kate""",female,unknown,367230,15.5000,,Queenstown,16,,
+3rd class,survived,"Murphy, Miss. Margaret Jane",female,unknown,367230,15.5000,,Queenstown,16,,
+3rd class,survived,"Murphy, Miss. Nora",female,unknown,36568,15.5000,,Queenstown,16,,
+3rd class,did not survive,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,347078,7.7500,,Southampton,,,
+3rd class,did not survive,"Naidenoff, Mr. Penko",male,22,349206,7.8958,,Southampton,,,
+3rd class,survived,"Najib, Miss. Adele Kiamie ""Jane""",female,15,2667,7.2250,,Cherbourg,C,,
+3rd class,survived,"Nakid, Miss. Maria (""Mary"")",female,1,2653,15.7417,,Cherbourg,C,,
+3rd class,survived,"Nakid, Mr. Sahid",male,20,2653,15.7417,,Cherbourg,C,,
+3rd class,survived,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19,2653,15.7417,,Cherbourg,C,,
+3rd class,did not survive,"Nancarrow, Mr. William Henry",male,33,A./5. 3338,8.0500,,Southampton,,,
+3rd class,did not survive,"Nankoff, Mr. Minko",male,unknown,349218,7.8958,,Southampton,,,
+3rd class,did not survive,"Nasr, Mr. Mustafa",male,unknown,2652,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Naughton, Miss. Hannah",female,unknown,365237,7.7500,,Queenstown,,,
+3rd class,did not survive,"Nenkoff, Mr. Christo",male,unknown,349234,7.8958,,Southampton,,,
+3rd class,survived,"Nicola-Yarred, Master. Elias",male,12,2651,11.2417,,Cherbourg,C,,
+3rd class,survived,"Nicola-Yarred, Miss. Jamila",female,14,2651,11.2417,,Cherbourg,C,,
+3rd class,did not survive,"Nieminen, Miss. Manta Josefina",female,29,3101297,7.9250,,Southampton,,,
+3rd class,did not survive,"Niklasson, Mr. Samuel",male,28,363611,8.0500,,Southampton,,,
+3rd class,survived,"Nilsson, Miss. Berta Olivia",female,18,347066,7.7750,,Southampton,D,,
+3rd class,survived,"Nilsson, Miss. Helmina Josefina",female,26,347470,7.8542,,Southampton,13,,
+3rd class,did not survive,"Nilsson, Mr. August Ferdinand",male,21,350410,7.8542,,Southampton,,,
+3rd class,did not survive,"Nirva, Mr. Iisakki Antino Aijo",male,41,SOTON/O2 3101272,7.1250,,Southampton,,,"Finland Sudbury, ON"
+3rd class,survived,"Niskanen, Mr. Juha",male,39,STON/O 2. 3101289,7.9250,,Southampton,9,,
+3rd class,did not survive,"Nosworthy, Mr. Richard Cater",male,21,A/4. 39886,7.8000,,Southampton,,,
+3rd class,did not survive,"Novel, Mr. Mansouer",male,28.5,2697,7.2292,,Cherbourg,,181,
+3rd class,survived,"Nysten, Miss. Anna Sofia",female,22,347081,7.7500,,Southampton,13,,
+3rd class,did not survive,"Nysveen, Mr. Johan Hansen",male,61,345364,6.2375,,Southampton,,,
+3rd class,did not survive,"O'Brien, Mr. Thomas",male,unknown,370365,15.5000,,Queenstown,,,
+3rd class,did not survive,"O'Brien, Mr. Timothy",male,unknown,330979,7.8292,,Queenstown,,,
+3rd class,survived,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,unknown,370365,15.5000,,Queenstown,,,
+3rd class,did not survive,"O'Connell, Mr. Patrick D",male,unknown,334912,7.7333,,Queenstown,,,
+3rd class,did not survive,"O'Connor, Mr. Maurice",male,unknown,371060,7.7500,,Queenstown,,,
+3rd class,did not survive,"O'Connor, Mr. Patrick",male,unknown,366713,7.7500,,Queenstown,,,
+3rd class,did not survive,"Odahl, Mr. Nils Martin",male,23,7267,9.2250,,Southampton,,,
+3rd class,did not survive,"O'Donoghue, Ms. Bridget",female,unknown,364856,7.7500,,Queenstown,,,
+3rd class,survived,"O'Driscoll, Miss. Bridget",female,unknown,14311,7.7500,,Queenstown,D,,
+3rd class,survived,"O'Dwyer, Miss. Ellen ""Nellie""",female,unknown,330959,7.8792,,Queenstown,,,
+3rd class,survived,"Ohman, Miss. Velin",female,22,347085,7.7750,,Southampton,C,,
+3rd class,survived,"O'Keefe, Mr. Patrick",male,unknown,368402,7.7500,,Queenstown,B,,
+3rd class,survived,"O'Leary, Miss. Hanora ""Norah""",female,unknown,330919,7.8292,,Queenstown,13,,
+3rd class,survived,"Olsen, Master. Artur Karl",male,9,C 17368,3.1708,,Southampton,13,,
+3rd class,did not survive,"Olsen, Mr. Henry Margido",male,28,C 4001,22.5250,,Southampton,,173,
+3rd class,did not survive,"Olsen, Mr. Karl Siegwart Andreas",male,42,4579,8.4042,,Southampton,,,
+3rd class,did not survive,"Olsen, Mr. Ole Martin",male,unknown,Fa 265302,7.3125,,Southampton,,,
+3rd class,did not survive,"Olsson, Miss. Elina",female,31,350407,7.8542,,Southampton,,,
+3rd class,did not survive,"Olsson, Mr. Nils Johan Goransson",male,28,347464,7.8542,,Southampton,,,
+3rd class,survived,"Olsson, Mr. Oscar Wilhelm",male,32,347079,7.7750,,Southampton,A,,
+3rd class,did not survive,"Olsvigen, Mr. Thor Anderson",male,20,6563,9.2250,,Southampton,,89,"Oslo, Norway Cameron, WI"
+3rd class,did not survive,"Oreskovic, Miss. Jelka",female,23,315085,8.6625,,Southampton,,,
+3rd class,did not survive,"Oreskovic, Miss. Marija",female,20,315096,8.6625,,Southampton,,,
+3rd class,did not survive,"Oreskovic, Mr. Luka",male,20,315094,8.6625,,Southampton,,,
+3rd class,did not survive,"Osen, Mr. Olaf Elon",male,16,7534,9.2167,,Southampton,,,
+3rd class,survived,"Osman, Mrs. Mara",female,31,349244,8.6833,,Southampton,,,
+3rd class,did not survive,"O'Sullivan, Miss. Bridget Mary",female,unknown,330909,7.6292,,Queenstown,,,
+3rd class,did not survive,"Palsson, Master. Gosta Leonard",male,2,349909,21.0750,,Southampton,,4,
+3rd class,did not survive,"Palsson, Master. Paul Folke",male,6,349909,21.0750,,Southampton,,,
+3rd class,did not survive,"Palsson, Miss. Stina Viola",female,3,349909,21.0750,,Southampton,,,
+3rd class,did not survive,"Palsson, Miss. Torborg Danira",female,8,349909,21.0750,,Southampton,,,
+3rd class,did not survive,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,349909,21.0750,,Southampton,,206,
+3rd class,did not survive,"Panula, Master. Eino Viljami",male,1,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Panula, Master. Juha Niilo",male,7,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Panula, Master. Urho Abraham",male,2,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Panula, Mr. Ernesti Arvid",male,16,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Panula, Mr. Jaako Arnold",male,14,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Pasic, Mr. Jakob",male,21,315097,8.6625,,Southampton,,,
+3rd class,did not survive,"Patchett, Mr. George",male,19,358585,14.5000,,Southampton,,,
+3rd class,did not survive,"Paulner, Mr. Uscher",male,unknown,3411,8.7125,,Cherbourg,,,
+3rd class,did not survive,"Pavlovic, Mr. Stefo",male,32,349242,7.8958,,Southampton,,,
+3rd class,did not survive,"Peacock, Master. Alfred Edward",male,0.75,SOTON/O.Q. 3101315,13.7750,,Southampton,,,
+3rd class,did not survive,"Peacock, Miss. Treasteall",female,3,SOTON/O.Q. 3101315,13.7750,,Southampton,,,
+3rd class,did not survive,"Peacock, Mrs. Benjamin (Edith Nile)",female,26,SOTON/O.Q. 3101315,13.7750,,Southampton,,,
+3rd class,did not survive,"Pearce, Mr. Ernest",male,unknown,343271,7.0000,,Southampton,,,
+3rd class,did not survive,"Pedersen, Mr. Olaf",male,unknown,345498,7.7750,,Southampton,,,
+3rd class,did not survive,"Peduzzi, Mr. Joseph",male,unknown,A/5 2817,8.0500,,Southampton,,,
+3rd class,did not survive,"Pekoniemi, Mr. Edvard",male,21,STON/O 2. 3101294,7.9250,,Southampton,,,
+3rd class,did not survive,"Peltomaki, Mr. Nikolai Johannes",male,25,STON/O 2. 3101291,7.9250,,Southampton,,,
+3rd class,did not survive,"Perkin, Mr. John Henry",male,22,A/5 21174,7.2500,,Southampton,,,
+3rd class,survived,"Persson, Mr. Ernst Ulrik",male,25,347083,7.7750,,Southampton,15,,
+3rd class,survived,"Peter, Master. Michael J",male,unknown,2668,22.3583,,Cherbourg,C,,
+3rd class,survived,"Peter, Miss. Anna",female,unknown,2668,22.3583,F E69,Cherbourg,D,,
+3rd class,survived,"Peter, Mrs. Catherine (Catherine Rizk)",female,unknown,2668,22.3583,,Cherbourg,D,,
+3rd class,did not survive,"Peters, Miss. Katie",female,unknown,330935,8.1375,,Queenstown,,,
+3rd class,did not survive,"Petersen, Mr. Marius",male,24,342441,8.0500,,Southampton,,,
+3rd class,did not survive,"Petranec, Miss. Matilda",female,28,349245,7.8958,,Southampton,,,
+3rd class,did not survive,"Petroff, Mr. Nedelio",male,19,349212,7.8958,,Southampton,,,
+3rd class,did not survive,"Petroff, Mr. Pastcho (""Pentcho"")",male,unknown,349215,7.8958,,Southampton,,,
+3rd class,did not survive,"Petterson, Mr. Johan Emil",male,25,347076,7.7750,,Southampton,,,
+3rd class,did not survive,"Pettersson, Miss. Ellen Natalia",female,18,347087,7.7750,,Southampton,,,
+3rd class,survived,"Pickard, Mr. Berk (Berk Trembisky)",male,32,SOTON/O.Q. 392078,8.0500,E10,Southampton,9,,
+3rd class,did not survive,"Plotcharsky, Mr. Vasil",male,unknown,349227,7.8958,,Southampton,,,
+3rd class,did not survive,"Pokrnic, Mr. Mate",male,17,315095,8.6625,,Southampton,,,
+3rd class,did not survive,"Pokrnic, Mr. Tome",male,24,315092,8.6625,,Southampton,,,
+3rd class,did not survive,"Radeff, Mr. Alexander",male,unknown,349223,7.8958,,Southampton,,,
+3rd class,did not survive,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,unknown,65305,8.1125,,Southampton,,,
+3rd class,did not survive,"Razi, Mr. Raihed",male,unknown,2629,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Reed, Mr. James George",male,unknown,362316,7.2500,,Southampton,,,
+3rd class,did not survive,"Rekic, Mr. Tido",male,38,349249,7.8958,,Southampton,,,
+3rd class,did not survive,"Reynolds, Mr. Harold J",male,21,342684,8.0500,,Southampton,,,
+3rd class,did not survive,"Rice, Master. Albert",male,10,382652,29.1250,,Queenstown,,,
+3rd class,did not survive,"Rice, Master. Arthur",male,4,382652,29.1250,,Queenstown,,,
+3rd class,did not survive,"Rice, Master. Eric",male,7,382652,29.1250,,Queenstown,,,
+3rd class,did not survive,"Rice, Master. Eugene",male,2,382652,29.1250,,Queenstown,,,
+3rd class,did not survive,"Rice, Master. George Hugh",male,8,382652,29.1250,,Queenstown,,,
+3rd class,did not survive,"Rice, Mrs. William (Margaret Norton)",female,39,382652,29.1250,,Queenstown,,327,
+3rd class,did not survive,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22,3101295,39.6875,,Southampton,,,
+3rd class,did not survive,"Rintamaki, Mr. Matti",male,35,STON/O 2. 3101273,7.1250,,Southampton,,,
+3rd class,survived,"Riordan, Miss. Johanna ""Hannah""",female,unknown,334915,7.7208,,Queenstown,13,,
+3rd class,did not survive,"Risien, Mr. Samuel Beard",male,unknown,364498,14.5000,,Southampton,,,
+3rd class,did not survive,"Risien, Mrs. Samuel (Emma)",female,unknown,364498,14.5000,,Southampton,,,
+3rd class,did not survive,"Robins, Mr. Alexander A",male,50,A/5. 3337,14.5000,,Southampton,,119,
+3rd class,did not survive,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,A/5. 3337,14.5000,,Southampton,,7,
+3rd class,did not survive,"Rogers, Mr. William John",male,unknown,S.C./A.4. 23567,8.0500,,Southampton,,,
+3rd class,did not survive,"Rommetvedt, Mr. Knud Paust",male,unknown,312993,7.7750,,Southampton,,,
+3rd class,did not survive,"Rosblom, Miss. Salli Helena",female,2,370129,20.2125,,Southampton,,,
+3rd class,did not survive,"Rosblom, Mr. Viktor Richard",male,18,370129,20.2125,,Southampton,,,
+3rd class,did not survive,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,370129,20.2125,,Southampton,,,
+3rd class,survived,"Roth, Miss. Sarah A",female,unknown,342712,8.0500,,Southampton,C,,
+3rd class,did not survive,"Rouse, Mr. Richard Henry",male,50,A/5 3594,8.0500,,Southampton,,,
+3rd class,did not survive,"Rush, Mr. Alfred George John",male,16,A/4. 20589,8.0500,,Southampton,,,
+3rd class,survived,"Ryan, Mr. Edward",male,unknown,383162,7.7500,,Queenstown,14,,
+3rd class,did not survive,"Ryan, Mr. Patrick",male,unknown,371110,24.1500,,Queenstown,,,
+3rd class,did not survive,"Saad, Mr. Amin",male,unknown,2671,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Saad, Mr. Khalil",male,25,2672,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Saade, Mr. Jean Nassr",male,unknown,2676,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Sadlier, Mr. Matthew",male,unknown,367655,7.7292,,Queenstown,,,
+3rd class,did not survive,"Sadowitz, Mr. Harry",male,unknown,LP 1588,7.5750,,Southampton,,,
+3rd class,did not survive,"Saether, Mr. Simon Sivertsen",male,38.5,SOTON/O.Q. 3101262,7.2500,,Southampton,,32,
+3rd class,did not survive,"Sage, Master. Thomas Henry",male,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Master. William Henry",male,14.5,CA. 2343,69.5500,,Southampton,,67,
+3rd class,did not survive,"Sage, Miss. Ada",female,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Miss. Constance Gladys",female,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Miss. Dorothy Edith ""Dolly""",female,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Miss. Stella Anna",female,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Mr. Douglas Bullen",male,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Mr. Frederick",male,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Mr. George John Jr",male,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Mr. John George",male,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Sage, Mrs. John (Annie Bullen)",female,unknown,CA. 2343,69.5500,,Southampton,,,
+3rd class,did not survive,"Salander, Mr. Karl Johan",male,24,7266,9.3250,,Southampton,,,
+3rd class,survived,"Salkjelsvik, Miss. Anna Kristine",female,21,343120,7.6500,,Southampton,C,,
+3rd class,did not survive,"Salonen, Mr. Johan Werner",male,39,3101296,7.9250,,Southampton,,,
+3rd class,did not survive,"Samaan, Mr. Elias",male,unknown,2662,21.6792,,Cherbourg,,,
+3rd class,did not survive,"Samaan, Mr. Hanna",male,unknown,2662,21.6792,,Cherbourg,,,
+3rd class,did not survive,"Samaan, Mr. Youssef",male,unknown,2662,21.6792,,Cherbourg,,,
+3rd class,survived,"Sandstrom, Miss. Beatrice Irene",female,1,PP 9549,16.7000,G6,Southampton,13,,
+3rd class,survived,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,PP 9549,16.7000,G6,Southampton,13,,
+3rd class,survived,"Sandstrom, Miss. Marguerite Rut",female,4,PP 9549,16.7000,G6,Southampton,13,,
+3rd class,survived,"Sap, Mr. Julius",male,25,345768,9.5000,,Southampton,11,,
+3rd class,did not survive,"Saundercock, Mr. William Henry",male,20,A/5. 2151,8.0500,,Southampton,,,
+3rd class,did not survive,"Sawyer, Mr. Frederick Charles",male,24.5,342826,8.0500,,Southampton,,284,
+3rd class,did not survive,"Scanlan, Mr. James",male,unknown,36209,7.7250,,Queenstown,,,
+3rd class,did not survive,"Sdycoff, Mr. Todor",male,unknown,349222,7.8958,,Southampton,,,
+3rd class,did not survive,"Shaughnessy, Mr. Patrick",male,unknown,370374,7.7500,,Queenstown,,,
+3rd class,survived,"Sheerlinck, Mr. Jan Baptist",male,29,345779,9.5000,,Southampton,11,,
+3rd class,did not survive,"Shellard, Mr. Frederick William",male,unknown,C.A. 6212,15.1000,,Southampton,,,
+3rd class,survived,"Shine, Miss. Ellen Natalia",female,unknown,330968,7.7792,,Queenstown,,,
+3rd class,did not survive,"Shorney, Mr. Charles Joseph",male,unknown,374910,8.0500,,Southampton,,,
+3rd class,did not survive,"Simmons, Mr. John",male,unknown,SOTON/OQ 392082,8.0500,,Southampton,,,
+3rd class,did not survive,"Sirayanian, Mr. Orsen",male,22,2669,7.2292,,Cherbourg,,,
+3rd class,did not survive,"Sirota, Mr. Maurice",male,unknown,392092,8.0500,,Southampton,,,
+3rd class,did not survive,"Sivic, Mr. Husein",male,40,349251,7.8958,,Southampton,,,
+3rd class,did not survive,"Sivola, Mr. Antti Wilhelm",male,21,STON/O 2. 3101280,7.9250,,Southampton,,,
+3rd class,survived,"Sjoblom, Miss. Anna Sofia",female,18,3101265,7.4958,,Southampton,16,,
+3rd class,did not survive,"Skoog, Master. Harald",male,4,347088,27.9000,,Southampton,,,
+3rd class,did not survive,"Skoog, Master. Karl Thorsten",male,10,347088,27.9000,,Southampton,,,
+3rd class,did not survive,"Skoog, Miss. Mabel",female,9,347088,27.9000,,Southampton,,,
+3rd class,did not survive,"Skoog, Miss. Margit Elizabeth",female,2,347088,27.9000,,Southampton,,,
+3rd class,did not survive,"Skoog, Mr. Wilhelm",male,40,347088,27.9000,,Southampton,,,
+3rd class,did not survive,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,347088,27.9000,,Southampton,,,
+3rd class,did not survive,"Slabenoff, Mr. Petco",male,unknown,349214,7.8958,,Southampton,,,
+3rd class,did not survive,"Slocovski, Mr. Selman Francis",male,unknown,SOTON/OQ 392086,8.0500,,Southampton,,,
+3rd class,did not survive,"Smiljanic, Mr. Mile",male,unknown,315037,8.6625,,Southampton,,,
+3rd class,did not survive,"Smith, Mr. Thomas",male,unknown,384461,7.7500,,Queenstown,,,
+3rd class,survived,"Smyth, Miss. Julia",female,unknown,335432,7.7333,,Queenstown,13,,
+3rd class,did not survive,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,348124,7.6500,F G73,Southampton,,,
+3rd class,did not survive,"Somerton, Mr. Francis William",male,30,A.5. 18509,8.0500,,Southampton,,,
+3rd class,did not survive,"Spector, Mr. Woolf",male,unknown,A.5. 3236,8.0500,,Southampton,,,
+3rd class,did not survive,"Spinner, Mr. Henry John",male,32,STON/OQ. 369943,8.0500,,Southampton,,,
+3rd class,did not survive,"Staneff, Mr. Ivan",male,unknown,349208,7.8958,,Southampton,,,
+3rd class,did not survive,"Stankovic, Mr. Ivan",male,33,349239,8.6625,,Cherbourg,,,
+3rd class,survived,"Stanley, Miss. Amy Zillah Elsie",female,23,CA. 2314,7.5500,,Southampton,C,,
+3rd class,did not survive,"Stanley, Mr. Edward Roland",male,21,A/4 45380,8.0500,,Southampton,,,
+3rd class,did not survive,"Storey, Mr. Thomas",male,60.5,3701,,,Southampton,,261,
+3rd class,did not survive,"Stoytcheff, Mr. Ilia",male,19,349205,7.8958,,Southampton,,,
+3rd class,did not survive,"Strandberg, Miss. Ida Sofia",female,22,7553,9.8375,,Southampton,,,
+3rd class,survived,"Stranden, Mr. Juho",male,31,STON/O 2. 3101288,7.9250,,Southampton,9,,
+3rd class,did not survive,"Strilic, Mr. Ivan",male,27,315083,8.6625,,Southampton,,,
+3rd class,did not survive,"Strom, Miss. Telma Matilda",female,2,347054,10.4625,G6,Southampton,,,
+3rd class,did not survive,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,347054,10.4625,G6,Southampton,,,
+3rd class,survived,"Sunderland, Mr. Victor Francis",male,16,SOTON/OQ 392089,8.0500,,Southampton,B,,
+3rd class,survived,"Sundman, Mr. Johan Julian",male,44,STON/O 2. 3101269,7.9250,,Southampton,15,,
+3rd class,did not survive,"Sutehall, Mr. Henry Jr",male,25,SOTON/OQ 392076,7.0500,,Southampton,,,
+3rd class,did not survive,"Svensson, Mr. Johan",male,74,347060,7.7750,,Southampton,,,
+3rd class,survived,"Svensson, Mr. Johan Cervin",male,14,7538,9.2250,,Southampton,13,,
+3rd class,did not survive,"Svensson, Mr. Olof",male,24,350035,7.7958,,Southampton,,,
+3rd class,survived,"Tenglin, Mr. Gunnar Isidor",male,25,350033,7.7958,,Southampton,13 15,,
+3rd class,did not survive,"Theobald, Mr. Thomas Leonard",male,34,363294,8.0500,,Southampton,,176,
+3rd class,survived,"Thomas, Master. Assad Alexander",male,0.42,2625,8.5167,,Cherbourg,16,,
+3rd class,did not survive,"Thomas, Mr. Charles P",male,unknown,2621,6.4375,,Cherbourg,,,
+3rd class,did not survive,"Thomas, Mr. John",male,unknown,2681,6.4375,,Cherbourg,,,
+3rd class,did not survive,"Thomas, Mr. Tannous",male,unknown,2684,7.2250,,Cherbourg,,,
+3rd class,survived,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16,2625,8.5167,,Cherbourg,14,,
+3rd class,did not survive,"Thomson, Mr. Alexander Morrison",male,unknown,32302,8.0500,,Southampton,,,
+3rd class,did not survive,"Thorneycroft, Mr. Percival",male,unknown,376564,16.1000,,Southampton,,,
+3rd class,survived,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,unknown,376564,16.1000,,Southampton,10,,
+3rd class,did not survive,"Tikkanen, Mr. Juho",male,32,STON/O 2. 3101293,7.9250,,Southampton,,,
+3rd class,did not survive,"Tobin, Mr. Roger",male,unknown,383121,7.7500,F38,Queenstown,,,
+3rd class,did not survive,"Todoroff, Mr. Lalio",male,unknown,349216,7.8958,,Southampton,,,
+3rd class,did not survive,"Tomlin, Mr. Ernest Portage",male,30.5,364499,8.0500,,Southampton,,50,
+3rd class,did not survive,"Torber, Mr. Ernst William",male,44,364511,8.0500,,Southampton,,,
+3rd class,did not survive,"Torfa, Mr. Assad",male,unknown,2673,7.2292,,Cherbourg,,,
+3rd class,survived,"Tornquist, Mr. William Henry",male,25,LINE,0.0000,,Southampton,15,,
+3rd class,did not survive,"Toufik, Mr. Nakli",male,unknown,2641,7.2292,,Cherbourg,,,
+3rd class,survived,"Touma, Master. Georges Youssef",male,7,2650,15.2458,,Cherbourg,C,,
+3rd class,survived,"Touma, Miss. Maria Youssef",female,9,2650,15.2458,,Cherbourg,C,,
+3rd class,survived,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,2650,15.2458,,Cherbourg,C,,
+3rd class,did not survive,"Turcin, Mr. Stjepan",male,36,349247,7.8958,,Southampton,,,
+3rd class,survived,"Turja, Miss. Anna Sofia",female,18,4138,9.8417,,Southampton,15,,
+3rd class,survived,"Turkula, Mrs. (Hedwig)",female,63,4134,9.5875,,Southampton,15,,
+3rd class,did not survive,"van Billiard, Master. James William",male,unknown,A/5. 851,14.5000,,Southampton,,,
+3rd class,did not survive,"van Billiard, Master. Walter John",male,11.5,A/5. 851,14.5000,,Southampton,,1,
+3rd class,did not survive,"van Billiard, Mr. Austin Blyler",male,40.5,A/5. 851,14.5000,,Southampton,,255,
+3rd class,did not survive,"Van Impe, Miss. Catharina",female,10,345773,24.1500,,Southampton,,,
+3rd class,did not survive,"Van Impe, Mr. Jean Baptiste",male,36,345773,24.1500,,Southampton,,,
+3rd class,did not survive,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,345773,24.1500,,Southampton,,,
+3rd class,did not survive,"van Melkebeke, Mr. Philemon",male,unknown,345777,9.5000,,Southampton,,,
+3rd class,did not survive,"Vande Velde, Mr. Johannes Joseph",male,33,345780,9.5000,,Southampton,,,
+3rd class,did not survive,"Vande Walle, Mr. Nestor Cyriel",male,28,345770,9.5000,,Southampton,,,
+3rd class,did not survive,"Vanden Steen, Mr. Leo Peter",male,28,345783,9.5000,,Southampton,,,
+3rd class,did not survive,"Vander Cruyssen, Mr. Victor",male,47,345765,9.0000,,Southampton,,,
+3rd class,did not survive,"Vander Planke, Miss. Augusta Maria",female,18,345764,18.0000,,Southampton,,,
+3rd class,did not survive,"Vander Planke, Mr. Julius",male,31,345763,18.0000,,Southampton,,,
+3rd class,did not survive,"Vander Planke, Mr. Leo Edmondus",male,16,345764,18.0000,,Southampton,,,
+3rd class,did not survive,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,345763,18.0000,,Southampton,,,
+3rd class,survived,"Vartanian, Mr. David",male,22,2658,7.2250,,Cherbourg,13 15,,
+3rd class,did not survive,"Vendel, Mr. Olof Edvin",male,20,350416,7.8542,,Southampton,,,
+3rd class,did not survive,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,350406,7.8542,,Southampton,,,
+3rd class,did not survive,"Vovk, Mr. Janko",male,22,349252,7.8958,,Southampton,,,
+3rd class,did not survive,"Waelens, Mr. Achille",male,22,345767,9.0000,,Southampton,,,"Antwerp, Belgium / Stanton, OH"
+3rd class,did not survive,"Ware, Mr. Frederick",male,unknown,359309,8.0500,,Southampton,,,
+3rd class,did not survive,"Warren, Mr. Charles William",male,unknown,C.A. 49867,7.5500,,Southampton,,,
+3rd class,did not survive,"Webber, Mr. James",male,unknown,SOTON/OQ 3101316,8.0500,,Southampton,,,
+3rd class,did not survive,"Wenzel, Mr. Linhart",male,32.5,345775,9.5000,,Southampton,,298,
+3rd class,survived,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,2688,7.2292,,Cherbourg,C,,
+3rd class,did not survive,"Widegren, Mr. Carl/Charles Peter",male,51,347064,7.7500,,Southampton,,,
+3rd class,did not survive,"Wiklund, Mr. Jakob Alfred",male,18,3101267,6.4958,,Southampton,,314,
+3rd class,did not survive,"Wiklund, Mr. Karl Johan",male,21,3101266,6.4958,,Southampton,,,
+3rd class,survived,"Wilkes, Mrs. James (Ellen Needs)",female,47,363272,7.0000,,Southampton,,,
+3rd class,did not survive,"Willer, Mr. Aaron (""Abi Weller"")",male,unknown,3410,8.7125,,Southampton,,,
+3rd class,did not survive,"Willey, Mr. Edward",male,unknown,S.O./P.P. 751,7.5500,,Southampton,,,
+3rd class,did not survive,"Williams, Mr. Howard Hugh ""Harry""",male,unknown,A/5 2466,8.0500,,Southampton,,,
+3rd class,did not survive,"Williams, Mr. Leslie",male,28.5,54636,16.1000,,Southampton,,14,
+3rd class,did not survive,"Windelov, Mr. Einar",male,21,SOTON/OQ 3101317,7.2500,,Southampton,,,
+3rd class,did not survive,"Wirz, Mr. Albert",male,27,315154,8.6625,,Southampton,,131,
+3rd class,did not survive,"Wiseman, Mr. Phillippe",male,unknown,A/4. 34244,7.2500,,Southampton,,,
+3rd class,did not survive,"Wittevrongel, Mr. Camille",male,36,345771,9.5000,,Southampton,,,
+3rd class,did not survive,"Yasbeck, Mr. Antoni",male,27,2659,14.4542,,Cherbourg,C,,
+3rd class,survived,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,2659,14.4542,,Cherbourg,,,
+3rd class,did not survive,"Youseff, Mr. Gerious",male,45.5,2628,7.2250,,Cherbourg,,312,
+3rd class,did not survive,"Yousif, Mr. Wazli",male,unknown,2647,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Yousseff, Mr. Gerious",male,unknown,2627,14.4583,,Cherbourg,,,
+3rd class,did not survive,"Zabour, Miss. Hileni",female,14.5,2665,14.4542,,Cherbourg,,328,
+3rd class,did not survive,"Zabour, Miss. Thamine",female,unknown,2665,14.4542,,Cherbourg,,,
+3rd class,did not survive,"Zakarian, Mr. Mapriededer",male,26.5,2656,7.2250,,Cherbourg,,304,
+3rd class,did not survive,"Zakarian, Mr. Ortin",male,27,2670,7.2250,,Cherbourg,,,
+3rd class,did not survive,"Zimmerman, Mr. Leo",male,29,315082,7.8750,,Southampton,,,
