@@ -1,11 +1,6 @@
 ## Some datasets to play with
 
-- first
-- second
-- third
-
-
-Playing interactively, see:
+To play with them interactively, see:
 
 [https://www.drasticdata.nl/treemapping.htm](https://www.drasticdata.nl/treemapping.htm)
 
