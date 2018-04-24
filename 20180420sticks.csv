@@ -1,0 +1,246 @@
+name,brand,carbon%,series,type,curve_location,curve_height,weight,groove,specialprops
+CarbonBraid,Adidas,100,Lx24,Carbonbraid,250,24,,x,gewoven carbon
+DF24 Carbon,Adidas,90,DF24,Carbon,200,24,,ja,-
+TX24 Carbon,Adidas,90,TX24,Carbon,200,24,,x,-
+Lx24 Carbon,Adidas,90,LX24,Carbon,250,24,,x,-
+V24 Carbon,Adidas,90,V24,Carbon,300,24,,x,-
+DF24 Compo 1,Adidas,70,DF24,Compo 1,200,24,,ja,-
+TX24 Compo 1,Adidas,70,TX24,Compo 1,200,24,,x,-
+Lx24 Compo 1,Adidas,70,LX24,Compo 1,250,24,,x,-
+V24 Compo 1,Adidas,70,V24,Compo 1,300,24,,x,-
+DF24 Compo 2,Adidas,50,DF24,Compo 2,200,24,,ja,-
+TX24 Compo 2,Adidas,50,TX24,Compo 2,200,24,,x,-
+Lx24 Compo 2,Adidas,50,LX24,Compo 2,250,24,,x,-
+V24 Compo 2,Adidas,50,V24,Compo 2,300,24,,x,-
+DF24 Compo 3,Adidas,30,DF24,Compo 3,200,24,,ja,-
+TX24 Compo 3,Adidas,30,TX24,Compo 3,200,24,,x,-
+Lx24 Compo 3,Adidas,30,LX24,Compo 3,250,24,,x,-
+V24 Compo 3,Adidas,30,V24,Compo 3,300,24,,x,-
+DF24 Compo 4,Adidas,20,DF24,Compo 4,200,24,,ja,-
+TX24 Compo 4,Adidas,20,TX24,Compo 4,200,24,,x,-
+Lx24 Compo 4,Adidas,20,LX24,Compo 4,250,24,,x,-
+V24 Compo 4,Adidas,20,V24,Compo 4,300,24,,x,-
+DF24 Compo 5,Adidas,15,DF24,Compo 5,200,24,,ja,-
+TX24 Compo 5,Adidas,15,TX24,Compo 5,200,24,,x,-
+Lx24 Compo 5,Adidas,15,LX24,Compo 5,250,24,,x,-
+V24 Compo 5,Adidas,15,V24,Compo 5,300,24,,x,-
+DF24 Compo 6,Adidas,0,DF24,Compo 6,200,24,,ja,-
+TX24 Compo 6,Adidas,0,TX24,Compo 6,200,24,,x,-
+Lx24 Compo 6,Adidas,0,LX24,Compo 6,250,24,,x,-
+V24 Compo 6,Adidas,0,V24,Compo 6,300,24,,x,-
+TeXtreme X-1 Classic 24,Brabo,100,TeXtreme,X-1,310,24,,x,extra stijf carbon
+TeXtreme X-1 Extreme low bow Dragflick,Brabo,100,TeXtreme,X-1,170,24,,ja,extra stijf carbon
+TeXtreme X-2 Classic 24,Brabo,100,TeXtreme,X-2,310,24,,x,extra stijf carbon
+TeXtreme X-2 Extreme low bow,Brabo,100,TeXtreme,X-2,170,24,,x,extra stijf carbon
+TeXtreme X-2 Low bow,Brabo,100,TeXtreme,X-2,240,24,,x,extra stijf carbon
+TeXtreme X-3 Classic 24,Brabo,100,TeXtreme,X-3,310,24,,x,extra stijf carbon
+TeXtreme X-3 Extreme low bow,Brabo,100,TeXtreme,X-3,170,24,,x,extra stijf carbon
+TeXtreme X-3 Low bow,Brabo,100,TeXtreme,X-3,240,24,,x,extra stijf carbon
+Origanal LW12 Classic 24,Brabo,100,LW12,Original,310,24,,x,extra stijf carbon
+Origanal LW12 Low bow,Brabo,100,LW12,Original,240,24,,x,extra stijf carbon
+Signature LW12,Brabo,60,LW12,Signature,310,24,,x,-
+G-Force Signature LW12,Brabo,40,LW12,G-Force Signature,310,24,,x,-
+Traditional Carbon 100 limited Classic 24,Brabo,100,Traditional,100 limited,310,24,,x,-
+Traditional Carbon 100 limited Extreme low bow Dragflick,Brabo,100,Traditional,100 limited,170,24,,ja,-
+Traditional Carbon 100 limited low bow,Brabo,100,Traditional,100 limited,240,24,,x,-
+Traditional Carbon 100 classic 24,Brabo,100,Traditional,100,310,24,,x,-
+Traditional Carbon 100 classic 16,Brabo,100,Traditional,100,290,16,,x,weinig kromming
+Traditional Carbon 100 Extreme low bow,Brabo,100,Traditional,100,170,24,,x,-
+Traditional Carbon 90,Brabo,90,Traditional,90,310,24,,x,dunnere kop dan classic 24
+Traditional Carbon 80 Classic 24,Brabo,80,Traditional,80,310,24,,x,-
+Traditional Carbon 80 Extreme low bow,Brabo,80,Traditional,80,170,24,,x,-
+Traditional Carbon 80 low bow,Brabo,80,Traditional,80,240,24,,x,-
+Traditional Carbon 75 Classic 24,Brabo,75,Traditional,75,310,24,,x,-
+Traditional Carbon 75 low bow,Brabo,75,Traditional,75,240,24,,x,-
+TC 10 LTD Classic 24,Brabo,100,Tribute,10,310,24,,x,-
+TC 10 LTD Extreme low bow,Brabo,100,Tribute,10,170,24,,x,-
+TC 10 LTD Extreme low bow Dragflick,Brabo,100,Tribute,10,170,24,,ja,-
+TC 9 Classic 24,Brabo,90,Tribute,9,310,24,,x,-
+TC 9 Low bow,Brabo,90,Tribute,9,240,24,,x,-
+TC 8 Classic 24,Brabo,80,Tribute,8,310,24,,x,-
+TC 7 Classic 24,Brabo,70,Tribute,7,310,24,,x,-
+TC 7 Extreme low bow,Brabo,70,Tribute,7,170,24,,x,-
+TC 7 Extreme low bow Dragflick,Brabo,70,Tribute,7,170,24,,ja,-
+TC 7 Low bow,Brabo,70,Tribute,7,240,24,,x,-
+TC 6 Classic 24,Brabo,60,Tribute,6,310,24,,x,-
+TC 5 Classic 24,Brabo,50,Tribute,5,310,24,,x,-
+TC 4 Classic 24,Brabo,40,Tribute,4,310,24,,x,-
+TC 3 Classic 24,Brabo,30,Tribute,3,310,24,,x,-
+Heritage 60 Classic 24,Brabo,60,Heritage,60,310,24,,x,-
+Heritage 60 Low bow,Brabo,60,Heritage,60,240,24,,x,-
+Heritage 50 Classic 24,Brabo,50,Heritage,50,310,24,,x,-
+Heritage 40 Classic 24,Brabo,40,Heritage,40,310,24,,x,-
+Heritage 30 Classic 24,Brabo,30,Heritage,30,310,24,,x,-
+Pure Army,Brabo,40,Pure,Army,310,24,,x,-
+Pure Panther,Brabo,40,Pure,Panther,310,24,,x,-
+Pure Zebra,Brabo,40,Pure,Zebra,310,24,,x,-
+Dragbow 95,Cazador,95,Dragbow,95,200,24,,ja,-
+Dragbow 75,Cazador,75,Dragbow,75,200,24,,ja,-
+Lowbow 95,Cazador,95,Lowbow,95,200,24,,x,-
+Lowbow 75,Cazador,75,Lowbow,75,200,24,,x,-
+Lowbow 45,Cazador,45,Lowbow,45,200,24,,x,-
+Probow 95,Cazador,95,Probow,95,250,24,,x,-
+Probow 75,Cazador,75,Probow,75,250,24,,x,-
+Probow 45,Cazador,45,Probow,45,250,24,,x,-
+Midbow 95,Cazador,95,Midbow,95,300,24,,x,-
+Midbow 75,Cazador,75,Midbow,75,300,24,,x,-
+Midbow 45,Cazador,45,Midbow,45,300,24,,x,-
+Carbotec Pro C100 X-Bow,Dita,100,Carbotec pro,C100,200,25,,x,-
+Carbotec Pro C100 L-Bow,Dita,100,Carbotec pro,C100,250,24,,x,-
+Carbotec Pro C100 M-Bow,Dita,100,Carbotec pro,C100,300,22,,x,-
+Carbotec C90 X-Bow,Dita,90,Carbotec,C90,200,25,,x,-
+Carbotec C85 L-Bow,Dita,85,Carbotec,C85,250,24,,x,-
+Carbotec C80 M-Bow,Dita,80,Carbotec,C80,300,22,,x,-
+Carbotec C75 S-Bow,Dita,75,Carbotec,C75,300,19,,x,-
+Carbotec C75 S-Bow Powerhook,Dita,75,Carbotec,C75,300,19,,x,Powerhook
+Compotec C70 X-Bow,Dita,70,Compotec,C70,200,25,,x,-
+Compotec C65 L-Bow,Dita,65,Compotec,C65,250,24,,x,-
+Compotec C60 M-Bow,Dita,60,Compotec,C60,300,22,,x,-
+Compotec C55 S-Bow,Dita,55,Compotec,C55,300,19,,x,-
+Fibertec C50 X-Bow,Dita,50,Fibertec,C50,200,25,,x,-
+Fibertec C45 L-Bow,Dita,45,Fibertec,C45,250,24,,x,-
+Fibertec C40 M-Bow,Dita,40,Fibertec,C40,300,22,,x,-
+Fibertec C35 S-Bow,Dita,35,Fibertec,C35,300,19,,x,-
+KN 10000 Dynabow,Grays,90,KN,10000,250,24.75,,x,-
+KN 8000 Probow Xtreme,Grays,90,KN,8000,200,24.75,,ja,extra diepe groove
+GR 11000 Probow Xtreme,Grays,90,GR,11000,200,24.75,,ja,extra diepe groove
+GR 11000 Probow,Grays,90,GR,10000,200,24.75,,ja,-
+GR 10000 Dynabow,Grays,90,GR,8000,250,24.75,,x,-
+GR 8000 Midbow,Grays,90,GR,8000,300,24.75,,x,-
+GR 8000 Probow Xtreme,Grays,90,GR,8000,200,24.75,,ja,extra diepe groove
+GR 8000 Jumbow,Grays,90,GR,8000,200,24.75,,x,-
+GR 8000 Dynabow,Grays,90,GR,8000,250,24.75,,x,-
+GR 7000 Probow Xtreme,Grays,80,GR,7000,200,24.75,,ja,extra diepe groove
+GR 7000 Probow,Grays,80,GR,7000,200,24.75,,ja,-
+GR 7000 Jumbow,Grays,80,GR,7000,200,24.75,,x,-
+GR 7000 Ultrabow,Grays,80,GR,7000,300,22,,x,-
+GR 6000 Dynabow,Grays,60,GR,6000,250,24.75,,x,-
+GR 5000 Probow Xtreme,Grays,50,GR,5000,200,24.75,,ja,extra diepe groove
+GR 5000 Jumbow,Grays,50,GR,5000,200,24.75,,x,-
+GR 5000 Midbow,Grays,50,GR,5000,300,24.75,,x,-
+GR 5000 Ultrabow,Grays,50,GR,5000,300,22,,x,-
+GR 4000 Ultrabow,Grays,40,GR,4000,300,22,,x,-
+GR 4000 Dynabow,Grays,40,GR,4000,250,24.75,,x,-
+GX 3500 Dynabow,Grays,30,GX,3500,250,24.75,,x,-
+GX 3500 Midbow,Grays,30,GX,3500,300,24.75,,x,-
+GX 3000 Ultrabow,Grays,20,GX,3000,300,22,,x,-
+GX 2500 Ultrabow,Grays,10,GX,2500,300,22,,x,-
+GX 2000 Ultrabow,Grays,0,GX,2000,300,22,,x,-
+GX CDH9 Midbow,Grays,30,GX,CDH9,300,24.75,,x,-
+GX RH24 Ultrabow,Grays,30,GX,RH24,300,22,,x,-
+Tour Samurai,Gryphon,100,Tour,Samurai,205,24,,ja,-
+Tour Deuce II,Gryphon,100,Tour,Deuce II,205,23,,x,-
+Tour T-bone,Gryphon,100,Tour,T-Bone,225,23.8,,x,-
+Tour Pro,Gryphon,100,Tour,Pro,250,24,,x,-
+Tour CC,Gryphon,100,Tour,CC,300,23,,x,-
+Taboo Bluesteel Samurai,Gryphon,90,Taboo Bluesteel,Samurai,205,24,,ja,-
+Taboo Bluesteel Deuce II,Gryphon,90,Taboo Bluesteel,Deuce II,205,23,,x,-
+Taboo Bluesteel T-Bone,Gryphon,90,Taboo Bluesteel,T-Bone,225,23.8,,x,-
+Taboo Bluesteel Pro,Gryphon,90,Taboo Bluesteel,Pro,250,24,,x,-
+Taboo Bluesteel CC,Gryphon,90,Taboo Bluesteel,CC,300,23,,x,-
+Taboo Original Samurai,Gryphon,80,Taboo Original,Samurai,205,24,,ja,-
+Taboo Original Deuce II,Gryphon,80,Taboo Original,Deuce II,205,23,,x,-
+Taboo Original T-Bone,Gryphon,80,Taboo Original,T-Bone,225,23.8,,x,-
+Taboo Original Pro,Gryphon,80,Taboo Original,Pro,250,24,,x,-
+Taboo Original CC,Gryphon,80,Taboo Original,CC,300,23,,x,-
+Taboo Striker Samurai,Gryphon,70,Taboo Striker,Samurai,205,24,,ja,-
+Taboo Striker Deuce II,Gryphon,70,Taboo Striker,Deuce II,205,23,,x,-
+Taboo Striker T-Bone,Gryphon,70,Taboo Striker,T-Bone,225,23.8,,x,-
+Taboo Striker Pro,Gryphon,70,Taboo Striker,Pro,250,24,,x,-
+Taboo Striker CC,Gryphon,70,Taboo Striker,CC,300,23,,x,-
+Taboo Aussie Samurai,Gryphon,60,Taboo Aussie,Samurai,205,24,,ja,-
+Taboo Aussie Deuce II,Gryphon,60,Taboo Aussie,Deuce II,205,23,,x,-
+Taboo Aussie T-Bone,Gryphon,60,Taboo Aussie,T-Bone,225,23.8,,x,-
+Taboo Aussie Pro,Gryphon,60,Taboo Aussie,Pro,250,24,,x,-
+Taboo Aussie CC,Gryphon,60,Taboo Aussie,CC,300,23,,x,-
+Chrome Blade Samurai,Gryphon,60,Chrome Blade,Samurai,205,24,,ja,-
+Chrome Blade Deuce II,Gryphon,60,Chrome Blade,Deuce II,205,23,,x,-
+Chrome Blade T-Bone,Gryphon,60,Chrome Blade,T-Bone,225,23.8,,x,-
+Chrome Blade Pro,Gryphon,60,Chrome Blade,Pro,250,24,,x,-
+Chrome Blade CC,Gryphon,60,Chrome Blade,CC,300,23,,x,-
+Chrome Elan Samurai,Gryphon,50,Chrome Elan,Samurai,205,24,,ja,-
+Chrome Elan Deuce II,Gryphon,50,Chrome Elan,Deuce II,205,23,,x,-
+Chrome Elan T-Bone,Gryphon,50,Chrome Elan,T-Bone,225,23.8,,x,-
+Chrome Elan Pro,Gryphon,50,Chrome Elan,Pro,250,24,,x,-
+Chrome Elan CC,Gryphon,50,Chrome Elan,CC,300,23,,x,-
+Chrome Atomic Samurai,Gryphon,40,Chrome Atomic,Samurai,205,24,,ja,-
+Chrome Atomic Deuce II,Gryphon,40,Chrome Atomic,Deuce II,205,23,,x,-
+Chrome Atomic T-Bone,Gryphon,40,Chrome Atomic,T-Bone,225,23.8,,x,-
+Chrome Atomic Pro,Gryphon,40,Chrome Atomic,Pro,250,24,,x,-
+Chrome Atomic CC,Gryphon,40,Chrome Atomic,CC,300,23,,x,-
+Chrome Solo Samurai,Gryphon,30,Chrome Solo,Samurai,205,24,,ja,-
+Chrome Solo Deuce II,Gryphon,30,Chrome Solo,Deuce II,205,23,,x,-
+Chrome Solo T-Bone,Gryphon,30,Chrome Solo,T-Bone,225,23.8,,x,-
+Chrome Solo Pro,Gryphon,30,Chrome Solo,Pro,250,24,,x,-
+Chrome Solo CC,Gryphon,30,Chrome Solo,CC,300,23,,x,-
+Gravity Nano,Indian Maharadja,100,Gravity,Nano,300,24,,x,-
+Jhuknaa 90,Indian Maharadja,90,Jhuknaa,90,210,25,,x,-
+Gravity 90,Indian Maharadja,90,Gravity,90,300,24,,x,-
+Sword Line Golden,Indian Maharadja,90,Sword Line,Golden,210,25,,x,-
+Gravity 70,Indian Maharadja,70,Gravity,70,300,24,,x,-
+Sword Line Silver,Indian Maharadja,70,Sword Line,Silver,210,25,,x,-
+Gravity 50,Indian Maharadja,50,gravity,50,300,24,,x,-
+Jhuknaa 50,Indian Maharadja,50,Jhuknaa,50,210,25,,x,-
+Sword Line Black,Indian Maharadja,50,Sword Line,Black,210,25,,x,-
+Sumo Fifty,Indian Maharadja,50,Sumo,Fifty,300,24,,x,-
+Gravity 40,Indian Maharadja,40,gravity,40,300,24,,x,-
+Sword Line White,Indian Maharadja,40,Sword Line,White,210,25,,x,-
+Sumo Fourty,Indian Maharadja,40,Sumo,Fourty,300,24,,x,-
+TMC 30,Indian Maharadja,30,TMC,30,300,22,,x,-
+Sumo Thirty,Indian Maharadja,30,Sumo,Thirty,300,24,,x,-
+Sumo Twenty,Indian Maharadja,20,Sumo,Twenty,300,24,,x,-
+TMC 20,Indian Maharadja,20,TMC,20,300,22,,x,-
+TMC 10,Indian Maharadja,10,TMC,10,300,22,,x,-
+Sumo Ten,Indian Maharadja,10,Sumo,Ten,300,24,,x,-
+Pro Tour Limited Gold Proto Bow,Osaka,98,Pro Tour Limited,Proto Bow,200,24,,x,extra krom
+Pro Tour Limited Silver Pro groove Bow,Osaka,98,Pro Tour Limited,Pro groove Bow,250,24,,ja,-
+Pro Tour Limited Bronze Show bow,Osaka,98,Pro Tour Limited,Show Bow,200,24,,x,goed voor liften
+Pro Tour Gold Pro Bow,Osaka,98,Pro Tour,Pro Bow,250,24,,x,-
+Pro Tour Silver Mid Bow,Osaka,98,Pro Tour,Mid Bow,300,24,,x,-
+Pro Tour Bronze Low Bow,Osaka,98,Pro Tour,Low Bow,200,24,,x,-
+5 series razzle dazzle Pro Bow,Osaka,90,5 series,Pro Bow,250,24,,x,-
+5 series razzle dazzle show Bow,Osaka,90,5 series,Show Bow,200,24,,x,goed voor liften
+4 series Pro Bow,Osaka,80,4 series,Pro Bow,250,24,,x,-
+4 series Proto Bow,Osaka,80,4 series,Proto Bow,200,24,,x,extra krom
+4 series Low Bow,Osaka,80,4 series,Low Bow,200,24,,x,-
+3 series PTO Low Bow,Osaka,70,3 series PTO,Low Bow,200,24,,x,-
+3 series PTO Mid Bow,Osaka,70,3 series PTO,Mid Bow,300,24,,x,-
+3 series PTO Pro Bow,Osaka,70,3 series PTO,Pro Bow,250,24,,x,-
+2 series Proto Bow,Osaka,50,2 series,Proto Bow,200,24,,x,extra krom
+2 series Low Bow,Osaka,50,2 series,Low Bow,200,24,,x,-
+2 series Pro Bow,Osaka,50,2 series,Pro Bow,250,24,,x,-
+Concept series Low Bow,Osaka,30,Concept series,Low Bow,200,24,,x,-
+Concept series Pro Bow,Osaka,30,Concept series,Pro Bow,250,24,,x,-
+Concept series Mid Bow,Osaka,30,Concept series,Mid Bow,300,24,,x,-
+Pro Tour Deshi Limited Pro Bow,Osaka,10,Pro Tour Deshi Limited,Pro Bow,250,24,,x,-
+Pro Tour Deshi Standard Bow,Osaka,0,Pro Tour Deshi,Standard Bow,300,17,,x,weinig kromming
+7 Star SG1,Princess,100,7 Star,SG1,300,24,,x,-
+7 Star SG2,Princess,100,7 Star,SG2,300,24,,x,-
+7 Star SG5,Princess,100,7 Star,SG5,250,24.75,,x,-
+7 Star SG9,Princess,100,7 Star,SG9,200,24.75,,x,-
+6 star SG2,Princess,80,6 star,SG2,300,24,,x,-
+6 star SG5,Princess,80,6 star,SG5,250,24.75,,x,-
+6 star SG9,Princess,80,6 star,SG9,200,24.75,,x,-
+5 Star SG1,Princess,60,5 Star,SG1,300,24,,x,-
+5 Star SG9,Princess,60,5 Star,SG9,200,24.75,,x,-
+4 Star SG2,Princess,40,4 Star,SG2,300,24,,x,-
+4 Star SG9,Princess,40,4 Star,SG9,200,24.75,,x,-
+4 Star T14,Princess,40,4 Star,T14,300,21,,x,-
+3 Star SG1,Princess,20,3 Star,SG1,300,24,,x,-
+3 Star SG5,Princess,20,3 Star,SG5,250,24.75,,x,-
+2 Star SG1,Princess,10,2 Star,SG1,300,24,,x,-
+2 Star SG2,Princess,10,2 Star,SG2,300,24,,x,-
+2 Star T14,Princess,10,2 Star,T14,300,21,,x,-
+Revolution Velocity,Ritual,100,Revolution,Velocity,250,24,,x,-
+Origin 95 Specialist,Ritual,95,Origin 95,Specialist,200,24,,ja,-
+Origin 95 Velocity,Ritual,95,Origin 95,Velocity,250,24,,x,-
+Origin 95 Response,Ritual,95,Origin 95,Response,300,24,,x,-
+Origin 95 Finesse,Ritual,95,Origin 95,Finesse,300,22,,x,-
+Origin 75 Specialist,Ritual,75,Origin 75,Specialist,200,24,,ja,-
+Origin 75 Velocity,Ritual,75,Origin 75,Velocity,250,24,,x,-
+Origin 75 Response,Ritual,75,Origin 75,Response,300,24,,x,-
+Origin 75 Finesse,Ritual,75,Origin 75,Finesse,300,22,,x,-
+Origin 55 Specialist,Ritual,55,Origin 55,Specialist,200,24,,ja,-
+Origin 55 Velocity,Ritual,55,Origin 55,Velocity,250,24,,x,-
+Origin 55 Response,Ritual,55,Origin 55,Response,300,24,,x,-
+Origin 55 Finesse,Ritual,55,Origin 55,Finesse,300,22,,x,-
